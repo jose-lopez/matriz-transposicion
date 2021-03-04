@@ -1,0 +1,22 @@
+Estas etiquetas estan en la matriz pero no en la leyenda:
+Etiqueta LAT_N
+Etiqueta LONG_E
+Etiqueta MES
+Etiqueta N_EDU
+Etiqueta P_TRAN
+Etiqueta SHFAn12
+
+Codigo      Variable        Condicion
+AJI_PI1    AJI_PI2        SALTO
+AJI_PI1    AJI_P12        IRREGULAR
+AJI_D1     AJI_D13        SALTO
+BT1        BT12           IRREGULAR
+BT1        BT13           IRREGULAR
+BT1        BT14           IRREGULAR
+CT1        CT_4*          INSERCION *
+HAR_PJ1    HAR_PJ4*       INSERCION *
+JU_MAN1    JU_MAN4*       INSERCION *
+JU_SE1     JU_SE4*        INSERCION *
+M_MOR1     MMOR14         IRREGULAR
+TEMT1      TEMT4*         INSERCION *
+YAR1       YAR4*          INSERCION *
