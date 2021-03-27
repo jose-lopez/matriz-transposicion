@@ -1,17 +1,14 @@
 '''
-Created on 22 feb. 2021
+Created on 16 mar. 2021
 
 @author: jose-lopez
 '''
-
-if __name__ == '__main__':
-    pass
 
 
 class Entrevista:
 
     '''
-    Esta clase modela a una entrevista mediante un código[
+    Esta clase modela a una entrevista mediante un código
     y cuatro diccionarios: socio-económico-cultural,
     alimentos, vegetación y climático.
     '''
@@ -19,9 +16,13 @@ class Entrevista:
     def __init__(self):
         self.__co_id = ""
         self.__sec = {}
-        self.__alimentos = {}
+        self.__alimentos = []
         self.__vegetacion = {}
         self.__climatico = {}
+        self.__sec_etiq = {}
+        self.__alimentos_etiq = []
+        self.__vegetacion_etiq = {}
+        self.__climatico_etiq = {}
 
     @property
     def co_id(self):
@@ -63,18 +64,34 @@ class Entrevista:
     def climatico(self, climatico):
         self.__climatico = climatico
 
+    @property
+    def sec_etiq(self):
+        return self.__sec_etiq
 
-matriz = open("data/simplificado-csv-1.csv")
-# matriz = open("data/completo.csv")
-cods_sec = open("data/codigos-sec.csv", "r")
-# cods_sec = open("data/simplificado-csv-1.csv", "r")
-codigos_alimentos = open("data/etiquetas_alimentos.txt", "r")
-cods_veg_est = open("data/codigos-veg-estacionalidad.csv", "r")
-registros = []
-procesando_etiquetas = True
-etiquetas = ""
-codigos_sec = []
-codigos = []
-codigos_veg_est = []
+    @sec_etiq.setter
+    def sec_etiq(self, sec_etiq):
+        self.__sec_etiq = sec_etiq
 
-print("Hola")
+    @property
+    def alimentos_etiq(self):
+        return self.__alimentos_etiq
+
+    @alimentos_etiq.setter
+    def alimentos_etiq(self, alimentos_etiq):
+        self.__alimentos_etiq = alimentos_etiq
+
+    @property
+    def vegetacion_etiq(self):
+        return self.__vegetacion_etiq
+
+    @vegetacion_etiq.setter
+    def vegetacion_etiq(self, vegetacion_etiq):
+        self.__vegetacion_etiq = vegetacion_etiq
+
+    @property
+    def climatico_etiq(self):
+        return self.__climatico_etiq
+
+    @climatico_etiq.setter
+    def climatico_etiq(self, climatico_etiq):
+        self.__climatico_etiq = climatico_etiq

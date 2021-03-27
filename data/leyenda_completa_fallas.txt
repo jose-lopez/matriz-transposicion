@@ -1,0 +1,104 @@
+Advertencia: En la entrevista 1 el valor  89 en la variable RESID no tiene etiqueta asignada
+Advertencia: En la entrevista 1 el valor  87 en la variable NACIM no tiene etiqueta asignada
+Advertencia: En la entrevista 1 el valor 1 en la variable CA8 no tiene etiqueta asignada
+Advertencia: En la entrevista 1 el valor 40 en la variable ALIMENTO4 no tiene etiqueta asignada
+Advertencia: En la entrevista 1 el valor  5 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 1 el valor   0 en la variable ALIMENTO7 no tiene etiqueta asignada
+Advertencia: En la entrevista 1 el valor   0.00 en la variable ALIMENTO8 no tiene etiqueta asignada
+Advertencia: En la entrevista 1 el valor   0 en la variable ALIMENTO9 no tiene etiqueta asignada
+Advertencia: En la entrevista 1 el valor 3 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor  79 en la variable RESID no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor  3 en la variable MISION no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor  en la variable FREC no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor 1 en la variable CA8 no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor 136 en la variable ALIMENTO4 no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor 15 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor   0 en la variable ALIMENTO8 no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor 3 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor  1 en la variable ALIMENTO13 no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor  1 en la variable ALIMENTO14 no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor 12 en la variable ALIMENTO4 no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor 10 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor 3 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 2 el valor  1 en la variable ALIMENTO14 no tiene etiqueta asignada
+Advertencia: En la entrevista 3 el valor  95 en la variable NACIM no tiene etiqueta asignada
+Advertencia: En la entrevista 3 el valor 0 en la variable CA8 no tiene etiqueta asignada
+Advertencia: En la entrevista 3 el valor  en la variable ALIMENTO4 no tiene etiqueta asignada
+Advertencia: En la entrevista 3 el valor 3 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 3 el valor 30 en la variable ALIMENTO4 no tiene etiqueta asignada
+Advertencia: En la entrevista 3 el valor 15 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 3 el valor   0 en la variable ALIMENTO8 no tiene etiqueta asignada
+Advertencia: En la entrevista 3 el valor 3 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 3 el valor  1 en la variable ALIMENTO13 no tiene etiqueta asignada
+Advertencia: En la entrevista 3 el valor  1 en la variable ALIMENTO14 no tiene etiqueta asignada
+Advertencia: En la entrevista 4 el valor  95 en la variable NACIM no tiene etiqueta asignada
+Advertencia: En la entrevista 4 el valor 0 en la variable CA8 no tiene etiqueta asignada
+Advertencia: En la entrevista 4 el valor 25 en la variable ALIMENTO4 no tiene etiqueta asignada
+Advertencia: En la entrevista 4 el valor 15 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 4 el valor   0 en la variable ALIMENTO8 no tiene etiqueta asignada
+Advertencia: En la entrevista 4 el valor 3 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 4 el valor  1 en la variable ALIMENTO13 no tiene etiqueta asignada
+Advertencia: En la entrevista 4 el valor  1 en la variable ALIMENTO14 no tiene etiqueta asignada
+Advertencia: En la entrevista 5 el valor  79 en la variable RESID no tiene etiqueta asignada
+Advertencia: En la entrevista 5 el valor  62 en la variable NACIM no tiene etiqueta asignada
+Advertencia: En la entrevista 5 el valor  3 en la variable MISION no tiene etiqueta asignada
+Advertencia: En la entrevista 5 el valor 1 en la variable CA8 no tiene etiqueta asignada
+Advertencia: En la entrevista 5 el valor 30 en la variable ALIMENTO4 no tiene etiqueta asignada
+Advertencia: En la entrevista 5 el valor 15 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 5 el valor   0 en la variable ALIMENTO8 no tiene etiqueta asignada
+Advertencia: En la entrevista 5 el valor 3 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor  79 en la variable RESID no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor  65 en la variable NACIM no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor  en la variable FREC no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor 1 en la variable CA8 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor  55 en la variable ALIMENTO3 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor 15 en la variable ALIMENTO4 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor 100 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor   0 en la variable ALIMENTO8 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor 1 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor   0 en la variable ALIMENTO3 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor 40 en la variable ALIMENTO4 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor 20 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor 3 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor 36 en la variable ALIMENTO4 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor 15 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor   0 en la variable ALIMENTO8 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor 3 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor  1 en la variable ALIMENTO13 no tiene etiqueta asignada
+Advertencia: En la entrevista 6 el valor  1 en la variable ALIMENTO14 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor  79 en la variable RESID no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor  65 en la variable NACIM no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor  en la variable FREC no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor 1 en la variable CA8 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor   0 en la variable ALIMENTO3 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor 12 en la variable ALIMENTO4 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor 20 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor 3 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor 59 en la variable ALIMENTO4 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor 15 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor   0 en la variable ALIMENTO8 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor 3 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor  1 en la variable ALIMENTO13 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor CT en la variable ALIMENTO1 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor  en la variable ALIMENTO5 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor 49 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor 20 en la variable ALIMENTO7 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor  0 en la variable ALIMENTO8 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor  0 en la variable ALIMENTO9 no tiene etiqueta asignada
+Advertencia: En la entrevista 7 el valor 0 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 8 el valor  69 en la variable RESID no tiene etiqueta asignada
+Advertencia: En la entrevista 8 el valor  60 en la variable NACIM no tiene etiqueta asignada
+Advertencia: En la entrevista 8 el valor  en la variable FREC no tiene etiqueta asignada
+Advertencia: En la entrevista 8 el valor  en la variable F_TRANSP no tiene etiqueta asignada
+Advertencia: En la entrevista 8 el valor 1 en la variable CA8 no tiene etiqueta asignada
+Advertencia: En la entrevista 8 el valor CT en la variable ALIMENTO1 no tiene etiqueta asignada
+Advertencia: En la entrevista 8 el valor  en la variable ALIMENTO5 no tiene etiqueta asignada
+Advertencia: En la entrevista 8 el valor 20 en la variable ALIMENTO6 no tiene etiqueta asignada
+Advertencia: En la entrevista 8 el valor 25 en la variable ALIMENTO7 no tiene etiqueta asignada
+Advertencia: En la entrevista 8 el valor  0 en la variable ALIMENTO8 no tiene etiqueta asignada
+Advertencia: En la entrevista 8 el valor  0 en la variable ALIMENTO9 no tiene etiqueta asignada
+Advertencia: En la entrevista 8 el valor 0 en la variable ALIMENTO10 no tiene etiqueta asignada
+Advertencia: En la entrevista 9 el valor  36 en la variable RESID no tiene etiqueta asignada
+Advertencia: En la entrevista 9 el valor  34 en la variable NACIM no tiene etiqueta asignada
+Advertencia: En la entrevista 9 el valor  en la variable FREC no tiene etiqueta asignada
+Advertencia: En la entrevista 9 el valor 0 en la variable CA8 no tiene etiqueta asignada

@@ -4,71 +4,12 @@ Created on 22 feb. 2021
 @author: jose-lopez
 '''
 import copy
-
-if __name__ == '__main__':
-    pass
-
-
-class Entrevista:
-
-    '''
-    Esta clase modela a una entrevista mediante un código
-    y cuatro diccionarios: socio-económico-cultural,
-    alimentos, vegetación y climático.
-    '''
-
-    def __init__(self):
-        self.__co_id = ""
-        self.__sec = {}
-        self.__alimentos = []
-        self.__vegetacion = {}
-        self.__climatico = {}
-
-    @property
-    def co_id(self):
-        return self.__co_id
-
-    @co_id.setter
-    def co_id(self, co_id):
-        self.__co_id = co_id
-
-    @property
-    def sec(self):
-        return self.__sec
-
-    @sec.setter
-    def sec(self, sec):
-        self.__sec = sec
-
-    @property
-    def alimentos(self):
-        return self.__alimentos
-
-    @alimentos.setter
-    def alimentos(self, alimentos):
-        self.__alimentos = alimentos
-
-    @property
-    def vegetacion(self):
-        return self.__vegetacion
-
-    @vegetacion.setter
-    def vegetacion(self, vegetacion):
-        self.__vegetacion = vegetacion
-
-    @property
-    def climatico(self):
-        return self.__climatico
-
-    @climatico.setter
-    def climatico(self, climatico):
-        self.__climatico = climatico
-
+from transposicion.entrevista import Entrevista
 
 # matriz = open("data/simplificado-csv-msdos.csv", 'r', encoding="utf8")
 # matriz = open("data/completo.csv", 'r', encoding="utf8")
-# matriz = open("data/registros-matriz-simplificado.csv", 'r', encoding="utf8")
-matriz = open("data/registros-matriz-indicaciones.csv", 'r', encoding="utf8")
+# matriz = open("data/entrevistas-matriz-simplificado.csv", 'r', encoding="utf8")
+matriz = open("data/entrevistas-matriz-indicaciones.csv", 'r', encoding="utf8")
 # etiquetas_matriz = open(
 #    "data/etiquetas-matriz-simplificado.csv", 'r', encoding="utf8")
 etiquetas_matriz = open(
@@ -78,7 +19,7 @@ cods_sec = open("data/codigos-sec.csv", 'r', encoding="utf16")
 cods_alimts = open("data/etiquetas_alimentos.txt", 'r')
 cods_veg_est = open("data/codigos-veg-estacionalidad.txt",
                     'r', encoding="utf16")
-registros = []
+entrevistas = []
 procesando_etiquetas = True
 etiquetas = ""
 codigos_sec = []
@@ -136,7 +77,7 @@ for linea in matriz:
 
             if etiqueta != "SALIDA" and not procesando_alimentos:
                 if codigos_sec.count(etiqueta) == 0:
-                    irregularidades[etiqueta] = "Etiqueta SOC {} no esta en la leyenda".format(
+                    irregularidades[etiqueta] = "Etiqueta SOC {} no esta en la entrevistas".format(
                         etiqueta)
                 bloque_en_proceso[etiqueta] = campos[num_campo]
                 num_campo = num_campo + 1
@@ -279,7 +220,7 @@ for linea in matriz:
             elif etiqueta != "ESTACIONALIDAD" and bloque == "VEGETACION":
                 if codigos_veg_est.count(etiqueta) == 0:
                     irregularidades[etiqueta] = "Etiqueta " + \
-                        etiqueta + "no esta en la leyenda"
+                        etiqueta + "no esta en la entrevistas"
                 bloque_en_proceso[etiqueta] = campos[num_campo]
                 num_campo = num_campo + 1
             elif etiqueta == "ESTACIONALIDAD":
@@ -292,7 +233,7 @@ for linea in matriz:
                 etiqueta = etiqueta.replace("\n", "")
                 if codigos_veg_est.count(etiqueta) == 0:
                     irregularidades[etiqueta] = "Etiqueta " + \
-                        etiqueta + "no esta en la leyenda"
+                        etiqueta + "no esta en la entrevistas"
                 campos[num_campo] = campos[num_campo].replace(
                     "\n", "")
                 bloque_en_proceso[etiqueta] = campos[num_campo].replace(
