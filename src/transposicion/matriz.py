@@ -17,7 +17,7 @@ class Matriz:
 
     '''
 
-    def __init__(self, ruta_matriz, ruta_codigos_sec, ruta_codigos_alimentos, ruta_codigos_veg_estac):
+    def __init__(self, ruta_matriz, ruta_codigos_sec, ruta_codigos_alimentos, ruta_codigos_veg_estac, campo_excep, num_max_var):
         '''
         Constructor
         '''
@@ -34,6 +34,36 @@ class Matriz:
         self._max_nro_variables_por_alimento = 0
 
         self._alimentos_orden = []
+
+        self._codigos_excep = []
+
+        self._campo_excep = campo_excep
+
+        self._num_max_var = num_max_var
+
+    @property
+    def num_max_var(self):
+        return self._num_max_var
+
+    @num_max_var.setter
+    def num_max_var(self, num_max_var):
+        self._num_max_var = num_max_var
+
+    @property
+    def campo_excep(self):
+        return self._campo_excep
+
+    @campo_excep.setter
+    def campo_excep(self, campo_excep):
+        self._campo_excep = campo_excep
+
+    @property
+    def codigos_excep(self):
+        return self._codigos_excep
+
+    @codigos_excep.setter
+    def codigos_excep(self, codigos_excep):
+        self._codigos_excep = codigos_excep
 
     @property
     def max_nro_variables_por_alimento(self):
@@ -91,6 +121,56 @@ class Matriz:
     def entrevistas(self, entrevistas):
         self._entrevistas = entrevistas
 
+    def codigos_matriz_en_codigos_alimentos(self, etiquetas, codigos_alimentos):
+
+        etiquetas_ = []
+
+        for etiqueta in etiquetas:
+            if not etiqueta == "AOESV1":
+                if etiqueta.endswith("8"):
+                    etiquetas_.append(etiqueta)
+            else:
+                break
+
+        cant_codgs_ausentes = 0
+
+        for variable in etiquetas_:
+
+            etiqueta_no_piso = variable.split(str("8"))[0]
+            etiqueta_piso = variable.split(str("_8"))[0]
+
+            codigo_presente = False
+
+            if etiqueta_no_piso in codigos_alimentos:
+                codigo_presente = True
+
+            if etiqueta_piso in codigos_alimentos:
+                codigo_presente = True
+
+            if not codigo_presente:
+                print(
+                    "Codigo {} presente en la matriz pero no en la leyanda".format(variable))
+                cant_codgs_ausentes += 1
+
+        print("Cantidad de codigos de la matriz no presentes en la leyenda: {}".format(
+            cant_codgs_ausentes))
+
+    def codigos_alimentos_en_codigos_matriz(self, etiquetas, codigos_alimentos):
+        cant_codigos_p = 0
+        cant_codigos_np = 0
+        for codigo in codigos_alimentos:
+            codigo_piso = codigo + "_1"
+            codigo_no_piso = codigo + "1"
+            if codigo_piso in etiquetas or codigo_no_piso in etiquetas:
+                cant_codigos_p += 1
+            else:
+                print("Codigo {} no esta en la matriz".format(codigo) + "\n")
+                cant_codigos_np += 1
+        print("Codigos presentes en la matriz: {}/{}".format(cant_codigos_p,
+                                                             len(codigos_alimentos)))
+        print("Codigos presentes en la matriz: {}/{}".format(cant_codigos_np,
+                                                             len(codigos_alimentos)))
+
     def procesar_entrevistas(self, reportar_etiquetas):
 
         matriz = open(self.ruta_matriz, 'r', encoding="utf8")
@@ -108,6 +188,9 @@ class Matriz:
         bloque = "SEC"
         # etiquetas = etiquetas_matriz.readline().split(";")
         etiquetas = matriz.readline().split(";")
+        reporte = open("reporte_etiquetas.txt", "w")
+        reporte.write(str(etiquetas))
+        reporte.close()
         nro_variables_por_alimento = 0
         primera_entrevista = True
 
@@ -131,6 +214,8 @@ class Matriz:
                 codigos_alimentos.append(linea.split("=")[0])
             else:
                 print("Codigo {} esta repetido".format(codigo))
+
+        self.codigos_matriz_en_codigos_alimentos(etiquetas, codigos_alimentos)
 
         for linea in matriz:
 
@@ -177,11 +262,11 @@ class Matriz:
 
                         if codigos_alimentos.count(etiqueta_cod_raiz) != 0:
                             alimento_cod = etiqueta_cod_raiz
-                            alimento_orden[alimento_cod] = alimento_cod
+                            alimento_orden["ALIMENTO"] = alimento_cod
                             piso = False
                         elif codigos_alimentos.count(etiqueta_cod_raiz_1) != 0:
                             alimento_cod = etiqueta_cod_raiz_1
-                            alimento_orden[alimento_cod] = alimento_cod
+                            alimento_orden["ALIMENTO"] = alimento_cod
                             piso = True
                         else:
                             print(
@@ -191,6 +276,7 @@ class Matriz:
                             exit()
                         if campos[num_campo] == "1":
                             alimento_activo = True
+                            bloque_en_proceso["ALIMENTO1"] = alimento_cod
                         nro_variables_por_alimento += 1
                         num_campo = num_campo + 1
                         inicio_analisis_alimento = False
@@ -232,7 +318,7 @@ class Matriz:
                                     if alimento_activo:
                                         for salto in range(indice_variable, int(numeral_variable)):
                                             bloque_en_proceso[etqta +
-                                                              str(salto)] = "SALTO"
+                                                              str(salto)] = ""
                                         bloque_en_proceso[etiqueta] = campos[num_campo]
                                     if primera_entrevista:
                                         for salto in range(indice_variable, int(numeral_variable)):
@@ -289,15 +375,19 @@ class Matriz:
                                 alimento_orden.clear()
                                 if nro_variables_por_alimento > self.max_nro_variables_por_alimento:
                                     self.max_nro_variables_por_alimento = nro_variables_por_alimento
+                                if nro_variables_por_alimento >= self.num_max_var:
+                                    print("Alimento: {} posee {} variables".format(
+                                        alimento_cod, nro_variables_por_alimento))
+                                    self.codigos_excep.append(alimento_cod)
                                 nro_variables_por_alimento = 0
 
                             if codigos_alimentos.count(etiqueta_cod_raiz) != 0:
                                 alimento_cod = etiqueta_cod_raiz
                                 if campos[num_campo] == "1":
                                     alimento_activo = True
-                                    bloque_en_proceso[alimento_cod] = alimento_cod
+                                    bloque_en_proceso["ALIMENTO1"] = alimento_cod
                                 if primera_entrevista:
-                                    alimento_orden[alimento_cod] = alimento_cod
+                                    alimento_orden["ALIMENTO"] = alimento_cod
                                     nro_variables_por_alimento += 1
                                 num_campo = num_campo + 1
                                 indice_variable = 2
@@ -306,9 +396,9 @@ class Matriz:
                                 alimento_cod = etiqueta_cod_raiz_1
                                 if campos[num_campo] == "1":
                                     alimento_activo = True
-                                    bloque_en_proceso[alimento_cod] = alimento_cod
+                                    bloque_en_proceso["ALIMENTO1"] = alimento_cod
                                 if primera_entrevista:
-                                    alimento_orden[alimento_cod] = alimento_cod
+                                    alimento_orden["ALIMENTO"] = alimento_cod
                                     nro_variables_por_alimento += 1
                                 num_campo = num_campo + 1
                                 indice_variable = 2
@@ -324,7 +414,13 @@ class Matriz:
                             deepcopy(alimento_orden))
                         if nro_variables_por_alimento > self.max_nro_variables_por_alimento:
                             self.max_nro_variables_por_alimento = nro_variables_por_alimento
-                        bloque_en_proceso.clear()
+                        if nro_variables_por_alimento >= self.num_max_var:
+                            print("Alimento: {} posee {} variables".format(
+                                alimento_cod, nro_variables_por_alimento))
+                            self.codigos_excep.append(alimento_cod)
+                        primera_entrevista = False
+                        alimento_orden.clear()
+                    bloque_en_proceso.clear()
                     bloque = "VEGETACION"
                     bloque_en_proceso[etiqueta] = campos[num_campo]
                     num_campo = num_campo + 1
@@ -368,7 +464,7 @@ class Matriz:
 
         return self.entrevistas
 
-    def etiquetar_campos(self, leyenda):
+    def etiquetar_campos(self, leyenda, etiquetar_variables):
 
         leyenda.cargar_leyenda()
 
@@ -395,8 +491,6 @@ class Matriz:
 
                     for key, value in bloque.items():
                         etiquetas = leyenda.etiquetas_key(key)
-                        # if key == "RESID":
-                        #    print(etiquetas)
                         if not value.isspace() and etiquetas is not None:
                             if value.strip() in etiquetas.keys():
                                 etiqueta_value = etiquetas[value.strip()]
@@ -423,11 +517,24 @@ class Matriz:
 
                     for alimento in bloque:
 
-                        num_variable_alimento = 0
+                        caso_especial = True
+
+                        num_variable_alimento = 1
 
                         for key, value in alimento.items():
-                            alimento_etiq["ALIMENTO" +
-                                          str(num_variable_alimento + 1)] = value
+                            if not len(alimento) == self.num_max_var:
+                                alimento_etiq["ALIMENTO" +
+                                              str(num_variable_alimento)] = value
+                            else:
+                                if num_variable_alimento == (self.campo_excep + 1) and caso_especial:
+                                    alimento_etiq["ALIMENTO" +
+                                                  str(self.campo_excep) + "*"] = value
+                                    num_variable_alimento -= 1
+                                    caso_especial = False
+                                else:
+                                    alimento_etiq["ALIMENTO" +
+                                                  str(num_variable_alimento)] = value
+
                             num_variable_alimento += 1
 
                         for key, value in alimento_etiq.items():
@@ -445,16 +552,17 @@ class Matriz:
 
                             alimento_etiq[key] = etiqueta_value
 
-                        diferencia_variables = self.max_nro_variables_por_alimento - num_variable_alimento
+                        diferencia_variables = self.max_nro_variables_por_alimento - \
+                            len(alimento)
 
                         if diferencia_variables > 0:
                             for indice in range(diferencia_variables):
                                 key = "ALIMENTO" + \
-                                    str(num_variable_alimento + indice + 1)
-                                alimento_etiq[key] = " "
+                                    str(len(alimento) + indice + 1)
+                                alimento_etiq[key] = ""
                         elif diferencia_variables < 0:
                             print("En el alimento {} hay mas variables que max. numero de variables".format(
-                                alimento_etiq["Alimento1"]))
+                                alimento_etiq["ALIMENT01"]))
                             print(
                                 "Debe revisarse el codigo con el que se procesan las entrevistas")
                             print(
@@ -497,7 +605,7 @@ class Matriz:
 
         primera_entrevista = True
 
-        leyendas = leyenda.cargar_leyenda()
+        leyenda.cargar_leyenda()
 
         for entrevista in self.entrevistas:
 
@@ -505,7 +613,6 @@ class Matriz:
                        entrevista.climatico_etiq, entrevista.alimentos_etiq]
 
             variables_vertical = ""
-            variables_horizontal = ""
 
             if primera_entrevista:
 
@@ -513,8 +620,8 @@ class Matriz:
                     variables_sec = variables_sec + key + ";"
 
                 etiquetas_alimento = leyenda.etiquetas_key("ALIMENTO")
-                for key in entrevista.alimentos_etiq[0]:
-                    etiqueta = etiquetas_alimento[key]
+                for indice in range(self.num_max_var - 1):
+                    etiqueta = etiquetas_alimento["ALIMENTO" + str(indice + 1)]
                     variables_alimentos = variables_alimentos + etiqueta + ";"
 
                 for key in entrevista.vegetacion_etiq.keys():
@@ -549,9 +656,32 @@ class Matriz:
                             registro = registro + value + "\n"
                 else:
                     alimentos = []
+                    etiquetas_alimentos = leyenda.etiquetas_key("ALIMENTO1")
                     for alimento in bloque:
+                        caso_especial = True
+                        num_variable_alimento = 1
+                        nombre_alimento = alimento["ALIMENTO1"]
+                        codigo_alimento = ""
+
+                        for codigo, nombre in etiquetas_alimentos.items():
+                            if nombre == nombre_alimento:
+                                codigo_alimento = codigo
+                                break
+
                         for key, value in alimento.items():
-                            registro = registro + value + ";"
+                            if codigo_alimento not in self.codigos_excep:
+                                if not num_variable_alimento == len(alimento):
+                                    registro = registro + value + ";"
+                            else:
+                                if num_variable_alimento == self.campo_excep:
+                                    pass
+                                elif num_variable_alimento == (self.campo_excep + 1) and caso_especial:
+                                    registro = registro + value + ";"
+                                    caso_especial = False
+                                else:
+                                    registro = registro + value + ";"
+                            num_variable_alimento += 1
+
                         alimentos.append(registro)
                         registro = ""
 
@@ -576,14 +706,13 @@ class Matriz:
                     # print(registro_alimentos)
 
             # Se define el registro general para la entrevsta en curso
-            for alimento in alimentos:
-                entrevista_etiq = registro_sec + alimento + \
+            for registro_alimento in registro_alimentos:
+                entrevista_etiq = registro_sec + registro_alimento + \
                     registro_veg + registro_climatico
                 print(entrevista_etiq)
 
                 # Se imprime la entrevista en curso en la matriz vertical
                 matriz_v.write(entrevista_etiq)
-                entrevista_etiq = ""
 
         matriz_v.close()
 
@@ -604,6 +733,9 @@ class Matriz:
 
         primera_entrevista = True
 
+        # Se obtienen los nombres largos para todos los alimentos
+        etiquetas_alimentos = leyenda.etiquetas_key("ALIMENTO1")
+
         for entrevista in self.entrevistas:
 
             bloques = [entrevista.sec_etiq, entrevista.vegetacion_etiq,
@@ -621,11 +753,27 @@ class Matriz:
                 # un alimento
                 etiquetas_alimento = leyenda.etiquetas_key("ALIMENTO")
                 for alimento_v in self.alimentos_orden:
+                    codigo = alimento_v["ALIMENTO"]
                     value = alimento_v["nro_variables"]
-                    for indice in range(int(value)):
-                        variable = "ALIMENTO" + str(indice + 1)
-                        variables_alimentos = variables_alimentos + \
-                            etiquetas_alimento[variable] + ";"
+                    if codigo not in self.codigos_excep:
+                        for indice in range(int(value)):
+                            variable = "ALIMENTO" + str(indice + 1)
+                            variables_alimentos = variables_alimentos + \
+                                etiquetas_alimento[variable] + ";"
+                    else:
+                        for indice in range(int(value)):
+                            if indice < 2:
+                                variable = "ALIMENTO" + str(indice + 1)
+                                variables_alimentos = variables_alimentos + \
+                                    etiquetas_alimento[variable] + ";"
+                            elif indice == 2:
+                                variable = "ALIMENTO" + str(indice) + "*"
+                                variables_alimentos = variables_alimentos + \
+                                    etiquetas_alimento[variable] + ";"
+                            else:
+                                variable = "ALIMENTO" + str(indice)
+                                variables_alimentos = variables_alimentos + \
+                                    etiquetas_alimento[variable] + ";"
 
                 for key in entrevista.vegetacion_etiq.keys():
                     variables_veg = variables_veg + key + ";"
@@ -660,21 +808,22 @@ class Matriz:
                             registro = registro + value + "\n"
                 else:
 
-                    # Se obtienen los nombres largos para todos los alimentos
-                    etiquetas_alimentos = leyenda.etiquetas_key("ALIMENTO1")
-
                     for alimento_v in self.alimentos_orden:
-                        key, value = alimento_v.items()
-                        for key, value in alimento_v.items():
-                            for alimento in self.alimento_etiq:
-                                if key in alimento.keys():
-                                    for value in alimento.values():
+                        key = list(alimento_v.values())[0]
+                        nro_variables = list(alimento_v.values())[1]
+                        key_value = etiquetas_alimentos[key]
+                        for alimento in entrevista.alimentos_etiq:
+                            if key_value in alimento.values():
+                                cont_variables = 1
+                                for value in alimento.values():
+                                    if cont_variables <= nro_variables:
                                         registro = registro + value + ";"
-                                else:
-                                    registro = registro + \
-                                        etiquetas_alimentos[key] + ";"
-                                    for _ in range(int(value - 1)):
-                                        registro = registro + "0" + ";"
+                                        cont_variables += 1
+                                break
+                        else:
+                            registro = registro + "0" + ";"
+                            for variable in range(nro_variables - 1):
+                                registro = registro + "0" + ";"
 
                 if seccion == "SEC":
                     registro_sec = deepcopy(registro)
