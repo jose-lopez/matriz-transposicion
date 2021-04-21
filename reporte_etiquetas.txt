@@ -1,1 +1,19 @@
-['CO_ID', 'LAT_N', 'EDAD', 'SALIDA', 'AJI_PI1', 'AJI_PI2', 'AJI_PI2*', 'AJI_PI3', 'AJI_PI4', 'AJI_D1', 'AJI_D3', 'ALM_1', 'ALL_2', 'ALM_2*', 'ALM_3', 'ALM_4', 'AOESV1', 'BOBSbSV2', 'MacizoG4', 'ESTACIONALIDAD', 'N_RIO\n']
+Codigo;Variable;Condicion
+Etiqueta SOC CO_ID no esta en la leyenda
+Etiqueta SOC LAT_N no esta en la leyenda
+Etiqueta SOC LONG_E no esta en la leyenda
+Etiqueta SOC FECHA no esta en la leyenda
+Etiqueta SOC MES no esta en la leyenda
+Etiqueta SOC NACIM no esta en la leyenda
+Etiqueta SOC P_TRAN no esta en la leyenda
+Etiqueta SOC LLEGAD no esta en la leyenda
+AJI_PI;AJI_P12;IRREGULAR
+AJI_D;AJI_D13;SALTO
+BT;BT14;IRREGULAR
+CT_;CT_4*;INSERCION *
+HAR_PJ;HAR_PJ4*;INSERCION *
+JU_MAN;JU_MAN4*;INSERCION *
+JU_SE;JU_SE4*;INSERCION *
+M_MOR;MMOR14;IRREGULAR
+TEMT;TEMT4*;INSERCION *
+YAR;YAR4*;INSERCION *

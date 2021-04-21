@@ -41,6 +41,16 @@ class Matriz:
 
         self._num_max_var = num_max_var
 
+        self._codigos_saltos = []
+
+    @property
+    def codigos_saltos(self):
+        return self._codigos_saltos
+
+    @codigos_saltos.setter
+    def codigos_saltos(self, codigos_saltos):
+        self._codigos_saltos = codigos_saltos
+
     @property
     def num_max_var(self):
         return self._num_max_var
@@ -188,9 +198,6 @@ class Matriz:
         bloque = "SEC"
         # etiquetas = etiquetas_matriz.readline().split(";")
         etiquetas = matriz.readline().split(";")
-        reporte = open("reporte_etiquetas.txt", "w")
-        reporte.write(str(etiquetas))
-        reporte.close()
         nro_variables_por_alimento = 0
         primera_entrevista = True
 
@@ -232,6 +239,7 @@ class Matriz:
             entrevista.co_id = campos[num_campo]
             alimento_activo = False
             alimento_orden = {}
+            codigos_saltos = {}
 
             for etiqueta in etiquetas:
 
@@ -239,16 +247,14 @@ class Matriz:
                     if codigos_sec.count(etiqueta) == 0:
                         irregularidades[etiqueta] = "Etiqueta SOC {} no esta en la leyenda".format(
                             etiqueta)
-                    bloque_en_proceso[etiqueta] = campos[num_campo]
+                    bloque_en_proceso[etiqueta] = campos[num_campo].strip()
                     num_campo = num_campo + 1
                 elif etiqueta == "SALIDA":
-                    bloque_en_proceso[etiqueta] = campos[num_campo]
+                    bloque_en_proceso[etiqueta] = campos[num_campo].strip()
                     num_campo = num_campo + 1
                     # Se guarda en la entrevista el bloque SEC.
                     entrevista.sec = copy.deepcopy(bloque_en_proceso)
                     bloque_en_proceso.clear()
-                    # bloque_en_proceso[etiqueta] = campos[num_campo]Inicia
-                    # analisis de etiquetas de alimentos
                     bloque = "ALIMENTOS"
                     procesando_alimentos = True
                     inicio_analisis_alimento = True
@@ -313,22 +319,29 @@ class Matriz:
                                         numeral_variable) - indice_variable
                                     irregularidades[alimento_cod] = alimento_cod + \
                                         ";" + etiqueta + ";" + "SALTO"
-                                    # x = indice_variable
-                                    # y = int(numeral_variable)
                                     if alimento_activo:
                                         for salto in range(indice_variable, int(numeral_variable)):
                                             bloque_en_proceso[etqta +
-                                                              str(salto)] = ""
-                                        bloque_en_proceso[etiqueta] = campos[num_campo]
+                                                              str(salto)] = "SALTO"
+                                        bloque_en_proceso[etiqueta] = campos[num_campo].strip(
+                                        )
                                     if primera_entrevista:
                                         for salto in range(indice_variable, int(numeral_variable)):
                                             nro_variables_por_alimento += 1
                                         nro_variables_por_alimento += 1
+                                        codigos_saltos["Alimento"] = alimento_cod
+                                        codigos_saltos["nro_saltos"] = numero_saltos
+                                        codigos_saltos["primer_salto"] = nro_variables_por_alimento - \
+                                            numero_saltos
+                                        self.codigos_saltos.append(
+                                            deepcopy(codigos_saltos))
+                                        codigos_saltos.clear()
                                     indice_variable = indice_variable + 1 + numero_saltos
                                     num_campo = num_campo + 1
                                 elif int(numeral_variable) == indice_variable:
                                     if alimento_activo:
-                                        bloque_en_proceso[etiqueta] = campos[num_campo]
+                                        bloque_en_proceso[etiqueta] = campos[num_campo].strip(
+                                        )
                                     if primera_entrevista:
                                         nro_variables_por_alimento += 1
                                     num_campo = num_campo + 1
@@ -337,7 +350,8 @@ class Matriz:
                                 irregularidades[alimento_cod] = alimento_cod + \
                                     ";" + etiqueta + ";" + "INSERCION *"
                                 if alimento_activo:
-                                    bloque_en_proceso[etiqueta] = campos[num_campo]
+                                    bloque_en_proceso[etiqueta] = campos[num_campo].strip(
+                                    )
                                 if primera_entrevista:
                                     nro_variables_por_alimento += 1
                                 num_campo = num_campo + 1
@@ -345,7 +359,8 @@ class Matriz:
                                 irregularidades[alimento_cod] = alimento_cod + \
                                     ";" + etiqueta + ";" + "IRREGULAR"
                                 if alimento_activo:
-                                    bloque_en_proceso[etiqueta] = campos[num_campo]
+                                    bloque_en_proceso[etiqueta] = campos[num_campo].strip(
+                                    )
                                 if primera_entrevista:
                                     nro_variables_por_alimento += 1
                                 num_campo = num_campo + 1
@@ -355,7 +370,8 @@ class Matriz:
                             irregularidades[alimento_cod] = alimento_cod + \
                                 ";" + etiqueta + ";" + "IRREGULAR"
                             if alimento_activo:
-                                bloque_en_proceso[etiqueta] = campos[num_campo]
+                                bloque_en_proceso[etiqueta] = campos[num_campo].strip(
+                                )
                             if primera_entrevista:
                                 nro_variables_por_alimento += 1
                             num_campo = num_campo + 1
@@ -422,19 +438,19 @@ class Matriz:
                         alimento_orden.clear()
                     bloque_en_proceso.clear()
                     bloque = "VEGETACION"
-                    bloque_en_proceso[etiqueta] = campos[num_campo]
+                    bloque_en_proceso[etiqueta] = campos[num_campo].strip()
                     num_campo = num_campo + 1
                 elif etiqueta != "ESTACIONALIDAD" and bloque == "VEGETACION":
                     if codigos_veg_est.count(etiqueta) == 0:
                         irregularidades[etiqueta] = "Etiqueta " + \
                             etiqueta + "no esta en la entrevistas"
-                    bloque_en_proceso[etiqueta] = campos[num_campo]
+                    bloque_en_proceso[etiqueta] = campos[num_campo].strip()
                     num_campo = num_campo + 1
                 elif etiqueta == "ESTACIONALIDAD":
                     bloque = "CLIMATICO"
                     entrevista.vegetacion = copy.deepcopy(bloque_en_proceso)
                     bloque_en_proceso.clear()
-                    bloque_en_proceso[etiqueta] = campos[num_campo]
+                    bloque_en_proceso[etiqueta] = campos[num_campo].strip()
                     num_campo = num_campo + 1
                 else:  # Solo resta N_RIO
                     etiqueta = etiqueta.replace("\n", "")
@@ -443,8 +459,7 @@ class Matriz:
                             etiqueta + "no esta en la entrevistas"
                     campos[num_campo] = campos[num_campo].replace(
                         "\n", "")
-                    bloque_en_proceso[etiqueta] = campos[num_campo].replace(
-                        "\n", "")
+                    bloque_en_proceso[etiqueta] = campos[num_campo].strip()
                     entrevista.climatico = copy.deepcopy(bloque_en_proceso)
 
             # Entrevista actual se agrega a las entrevistas procesadas
@@ -464,7 +479,7 @@ class Matriz:
 
         return self.entrevistas
 
-    def etiquetar_campos(self, leyenda, etiquetar_variables):
+    def etiquetar_campos(self, leyenda):
 
         leyenda.cargar_leyenda()
 
@@ -495,9 +510,10 @@ class Matriz:
                             if value.strip() in etiquetas.keys():
                                 etiqueta_value = etiquetas[value.strip()]
                             else:
-                                print(
-                                    "Advertencia: En la entrevista {} el valor {} en la variable {} no tiene etiqueta asignada".format(nro_entrevista, value, key))
                                 etiqueta_value = value
+                                if value.isalnum() and not value == "0":
+                                    print(
+                                        "Advertencia: En la entrevista {}: linea {}, el valor {} en la variable {} no tiene etiqueta asignada".format(entrevista.sec["CO_ID"], nro_entrevista, value, key))
                         else:
                             etiqueta_value = value
 
@@ -509,7 +525,9 @@ class Matriz:
                                 bloque_[key] = etiqueta_value
                         else:
                             bloque_[key] = etiqueta_value
-
+                            if value.isalnum() and not value == "0":
+                                print(
+                                    "Advertencia: En la entrevista {}: linea {}, el valor {} en la variable {} no tiene etiqueta asignada".format(entrevista.sec["CO_ID"], nro_entrevista, value, key))
                 else:
 
                     bloque_ = []
@@ -543,13 +561,12 @@ class Matriz:
                                 if value.strip() in etiquetas.keys():
                                     etiqueta_value = etiquetas[value.strip()]
                                 else:
-                                    print(
-                                        "Advertencia: En la entrevista {} el valor {} en la variable {} no tiene etiqueta asignada".format(nro_entrevista, value, key))
-                                    #print("Se mantiene el valor presente en la variable")
+                                    if value.isalnum() and not value == "0":
+                                        print(
+                                            "Advertencia: En la entrevista {}: linea {}, el valor {} en la variable {} del alimento {} no tiene etiqueta asignada".format(entrevista.sec["CO_ID"], nro_entrevista, value, key, alimento_etiq["ALIMENTO1"]))
                                     etiqueta_value = value
                             else:
                                 etiqueta_value = value
-
                             alimento_etiq[key] = etiqueta_value
 
                         diferencia_variables = self.max_nro_variables_por_alimento - \
@@ -564,7 +581,7 @@ class Matriz:
                             print("En el alimento {} hay mas variables que max. numero de variables".format(
                                 alimento_etiq["ALIMENT01"]))
                             print(
-                                "Debe revisarse el codigo con el que se procesan las entrevistas")
+                                "Debe revisarse el modo en el que se procesan las entrevistas")
                             print(
                                 "Se recomienda contactar al programador")
                             exit()
@@ -589,6 +606,14 @@ class Matriz:
                     # print(entrevista.climatico_etiq.items())
                 elif seccion == "Alimentos":
                     entrevista.alimentos_etiq = deepcopy(bloque_)
+
+    def validar_registros(self):
+        matriz = open(self.ruta_matriz, 'r', encoding="utf8")
+
+        variables = matriz.readline().split(";")
+
+        for registro in matriz:
+            pass
 
     def reporte_vertical(self, leyenda, r_matriz):
 
@@ -628,7 +653,7 @@ class Matriz:
                     variables_veg = variables_veg + key + ";"
 
                 for key in entrevista.climatico_etiq.keys():
-                    if not key == "N_RIO" and not key == "Nivel del Rio Orinoco":
+                    if not key == "N_RIO" and not key == "Nivel del Río Orinoco":
                         variables_climatico = variables_climatico + key + ";"
                     else:
                         variables_climatico = variables_climatico + key + "\n"
@@ -650,7 +675,7 @@ class Matriz:
                 if not seccion == "Alimentos":
                     for key, value in bloque.items():
                         key_strip = key.strip()
-                        if not key == "N_RIO" and not key_strip == "Nivel del Rio Orinoco":
+                        if not key == "N_RIO" and not key_strip == "Nivel del Río Orinoco":
                             registro = registro + value + ";"
                         else:
                             registro = registro + value + "\n"
@@ -716,33 +741,33 @@ class Matriz:
 
         matriz_v.close()
 
-    def reporte_horizontal(self, leyenda, r_matriz):
+    def reporte_horizontal(self, leyenda, r_matriz, r_matriz_h, r_reporte_v):
+
+        matriz = open(self.ruta_matriz, 'r', encoding="utf8")
+
+        reporte_validacion = open(r_reporte_v, 'w', encoding="utf8")
+
+        variables_matriz = matriz.readline()
+
+        variables_matriz_original = variables_matriz.split(";")
 
         matriz_h = open(
-            r_matriz, 'w', encoding="utf8")
+            r_matriz_h, 'w', encoding="utf8")
 
         variables_sec = ""
         variables_alimentos = ""
         variables_veg = ""
         variables_climatico = ""
-        registro_sec = ""
-        registro_veg = ""
-        registro_climatico = ""
 
         leyenda.cargar_leyenda()
 
         primera_entrevista = True
 
-        # Se obtienen los nombres largos para todos los alimentos
-        etiquetas_alimentos = leyenda.etiquetas_key("ALIMENTO1")
-
         for entrevista in self.entrevistas:
 
-            bloques = [entrevista.sec_etiq, entrevista.vegetacion_etiq,
-                       entrevista.climatico_etiq, entrevista.alimentos_etiq]
+            registro_matriz = matriz.readline()
 
             variables_horizontal = ""
-            entrevista_etiq = ""
 
             if primera_entrevista:
 
@@ -756,30 +781,47 @@ class Matriz:
                     codigo = alimento_v["ALIMENTO"]
                     value = alimento_v["nro_variables"]
                     if codigo not in self.codigos_excep:
-                        for indice in range(int(value)):
-                            variable = "ALIMENTO" + str(indice + 1)
-                            variables_alimentos = variables_alimentos + \
-                                etiquetas_alimento[variable] + ";"
-                    else:
-                        for indice in range(int(value)):
-                            if indice < 2:
+                        for salto in self.codigos_saltos:
+                            hay_salto = False
+                            if codigo in salto.values():
+                                salto_en = salto["primer_salto"]
+                                hay_salto = True
+                                for indice in range(value):
+                                    if not (indice + 1) == salto_en:
+                                        variable = "ALIMENTO" + \
+                                            str(indice + 1)
+                                        variables_alimentos = variables_alimentos + \
+                                            codigo + " " + \
+                                            etiquetas_alimento[variable] + ";"
+                        if not hay_salto:
+                            for indice in range(value):
                                 variable = "ALIMENTO" + str(indice + 1)
                                 variables_alimentos = variables_alimentos + \
+                                    codigo + " " + \
                                     etiquetas_alimento[variable] + ";"
-                            elif indice == 2:
+                    else:
+                        for indice in range(int(value)):
+                            if indice < self.campo_excep:
+                                variable = "ALIMENTO" + str(indice + 1)
+                                variables_alimentos = variables_alimentos + \
+                                    codigo + " " + \
+                                    etiquetas_alimento[variable] + ";"
+                            elif indice == self.campo_excep:
                                 variable = "ALIMENTO" + str(indice) + "*"
                                 variables_alimentos = variables_alimentos + \
+                                    codigo + " " + \
                                     etiquetas_alimento[variable] + ";"
                             else:
                                 variable = "ALIMENTO" + str(indice)
                                 variables_alimentos = variables_alimentos + \
+                                    codigo + " " + \
                                     etiquetas_alimento[variable] + ";"
 
                 for key in entrevista.vegetacion_etiq.keys():
                     variables_veg = variables_veg + key + ";"
 
                 for key in entrevista.climatico_etiq.keys():
-                    if not key == "N_RIO" and not key == "Nivel del Rio Orinoco":
+                    if not key == "N_RIO" and not key == "Nivel del Río Orinoco":
                         variables_climatico = variables_climatico + key + ";"
                     else:
                         variables_climatico = variables_climatico + key + "\n"
@@ -789,68 +831,170 @@ class Matriz:
                 variables_horizontal = variables_sec + variables_alimentos + \
                     variables_veg + variables_climatico
 
-                # Se imprime en archivo encabezado de la matriz en horizontal
+                cants_variables_matriz_original = len(
+                    variables_matriz_original)
+                cants_variables_horizontal = len(variables_horizontal.split(
+                    ';'))
+
+                if not cants_variables_horizontal == cants_variables_matriz_original:
+                    print(
+                        "La cantidad de variables en el encabezado nuevo no coincide con el original, revisar. \n"
+                        "Solo pueden diferir en 1 y el nuevo difiere en {}".format(cants_variables_horizontal - cants_variables_matriz_original))
+                    matriz.close()
+                    matriz_h.close()
+                    exit()
+
+                # Se imprime en archivo el encabezado de la matriz en
+                # horizontal
                 matriz_h.write(variables_horizontal)
 
-            # Se reporta la entrevista en curso en la matriz en horizontal
+            # Se reporta la entrevista etiquetada en curso en la matriz en
+            # horizontal
 
-            seccion = "SEC"
+            # Se genera registro no etiquetado a fin de validar mas adelante.
+            bloques = [entrevista.sec, entrevista.vegetacion,
+                       entrevista.climatico, entrevista.alimentos]
 
-            for bloque in bloques:
+            registro_ne = self.generar_registro(bloques, leyenda, False)
 
-                registro = ""
-                if not seccion == "Alimentos":
-                    for key, value in bloque.items():
-                        key_strip = key.strip()
-                        if not key == "N_RIO" and not key_strip == "Nivel del Rio Orinoco":
-                            registro = registro + value + ";"
-                        else:
-                            registro = registro + value + "\n"
-                else:
+            # Se genera registro etiquetado.
+            bloques = [entrevista.sec_etiq, entrevista.vegetacion_etiq,
+                       entrevista.climatico_etiq, entrevista.alimentos_etiq]
 
-                    for alimento_v in self.alimentos_orden:
-                        key = list(alimento_v.values())[0]
-                        nro_variables = list(alimento_v.values())[1]
-                        key_value = etiquetas_alimentos[key]
-                        for alimento in entrevista.alimentos_etiq:
-                            if key_value in alimento.values():
-                                cont_variables = 1
-                                for value in alimento.values():
-                                    if cont_variables <= nro_variables:
-                                        registro = registro + value + ";"
-                                        cont_variables += 1
-                                break
-                        else:
-                            registro = registro + "0" + ";"
-                            for variable in range(nro_variables - 1):
-                                registro = registro + "0" + ";"
+            registro_e = self.generar_registro(bloques, leyenda, True)
 
-                if seccion == "SEC":
-                    registro_sec = deepcopy(registro)
-                    seccion = "Vegetacion"
-                    # print("** Informacion SEC:")
-                    # print(registro_sec)
-                elif seccion == "Vegetacion":
-                    registro_veg = deepcopy(registro)
-                    seccion = "Climatico"
-                    # print("** Informacion vegetacion:")
-                    # print(registro_veg)
-                elif seccion == "Climatico":
-                    registro_climatico = deepcopy(registro)
-                    seccion = "Alimentos"
-                    # print("** Informacion climatica:")
-                    # print(registro_climatico)
-                elif seccion == "Alimentos":
-                    registro_alimentos = deepcopy(registro)
-                    # print("** Informacion alimentos:")
-                    # print(registro_alimentos)
-
-            # Se define el registro general para la entrevsta en curso
-            entrevista_etiq = registro_sec + registro_alimentos + \
-                registro_veg + registro_climatico
-            print(entrevista_etiq)
+            validado = self.validar_registro(variables_matriz_original,
+                                             registro_matriz, registro_ne)
 
             # Se imprime la entrevista en curso en la matriz vertical
-            matriz_h.write(entrevista_etiq)
-
+            if validado:
+                pass
+                # print("Validado:" + "\n")
+                # print(registro_e + "\n")
+                # reporte_validacion.write("Validado:" + "\n")
+            else:
+                print("No validado:" + "\n")
+                print(registro_e + "\n")
+                reporte_validacion.write("No Validado:" + "\n")
+            reporte_validacion.write(registro_e + "\n")
+            matriz_h.write(registro_e + "\n")
+        reporte_validacion.close()
         matriz_h.close()
+
+    def validar_registro(self, variables_matriz, registro_matriz, registro_ne):
+
+        campos_matriz = registro_matriz.split(";")
+        campos_matriz[-1] = campos_matriz[-1].replace("\n", "")
+        campos_registro_ne = registro_ne.split(";")
+
+        validado = True
+
+        if not len(variables_matriz) == len(campos_matriz):
+            print("Numero de variables y valores no coinciden para la entrevista {}".format(
+                campos_matriz[0]))
+            validado = False
+        elif not len(campos_registro_ne) == len(campos_matriz):
+            print("Numero de valores no coinciden para la entrevista {}".format(
+                campos_matriz[0]))
+            for indice in range(len(campos_matriz)):
+                valor_r = campos_registro_ne[indice].strip()
+                valor_m = campos_matriz[indice].strip()
+                if not valor_r == valor_m and valor_m.isalnum():
+                    print("Los primeros valores diferentes son ({},{}) correspondientes a la variable {}: Entrevista {}".format(valor_r, valor_m,
+                                                                                                                                variables_matriz[indice], campos_matriz[0]), "\n")
+                    break
+
+            validado = False
+        else:
+            for indice in range(len(campos_matriz)):
+                valor_r = campos_registro_ne[indice].strip()
+                valor_m = campos_matriz[indice].strip()
+                if not valor_r == valor_m and valor_m.isalnum():
+                    print("Los valores ({},{}) correspondientes a la variable {} en la entrevista {} no coinciden".format(valor_r, valor_m,
+                                                                                                                          variables_matriz[indice], campos_matriz[0]), "\n")
+                    validado = False
+
+        """
+        if validado:
+            print(
+                "Los campos correspondientes a la entrevista {} coinciden".format(campos_matriz[0]), "\n")
+        """
+
+        return validado
+
+    def generar_registro(self, bloques, leyenda, etiquetado):
+
+        leyenda.cargar_leyenda()
+
+        etiquetas_alimentos = leyenda.etiquetas_key("ALIMENTO1")
+
+        seccion = "SEC"
+        co_id_guardad = False
+        co_id = ""
+
+        for bloque in bloques:
+
+            registro = ""
+
+            if not seccion == "Alimentos":
+                for key, value in bloque.items():
+                    if not co_id_guardad:
+                        co_id = value
+                        co_id_guardad = True
+                    key_strip = key.strip()
+                    if not key == "N_RIO" and not key_strip == "Nivel del Río Orinoco":
+                        registro = registro + value.strip() + ";"
+                    else:
+                        registro = registro + value.strip()
+            else:
+                for alimento_v in self.alimentos_orden:
+                    key = list(alimento_v.values())[0]
+                    nro_variables = list(alimento_v.values())[1]
+                    key_etiqueta = etiquetas_alimentos[key]
+                    for alimento in bloque:
+                        if key == alimento["ALIMENTO1"] or key_etiqueta == alimento["ALIMENTO1"]:
+                            cont_variables = 1
+                            for value in alimento.values():
+                                if cont_variables <= nro_variables:
+                                    if value == "SALTO":
+                                        print("Valor SALTO en variable {} del alimento {} entrevista {}".format(
+                                            cont_variables, key, co_id), "\n")
+                                    else:
+                                        if cont_variables == 1 and not etiquetado:
+                                            registro = registro + "1" + ";"
+                                        else:
+                                            registro = registro + value.strip() + ";"
+                                    cont_variables += 1
+                            break
+                    else:
+                        for salto in self.codigos_saltos:
+                            if key in salto.values() or key_etiqueta in salto.values():
+                                nro_variables -= 1
+                        for variable in range(nro_variables):
+                            registro = registro + "0" + ";"
+
+            if seccion == "SEC":
+                registro_sec = deepcopy(registro)
+                seccion = "Vegetacion"
+                # print("** Informacion SEC:")
+                # print(registro_sec)
+            elif seccion == "Vegetacion":
+                registro_veg = deepcopy(registro)
+                seccion = "Climatico"
+                # print("** Informacion vegetacion:")
+                # print(registro_veg)
+            elif seccion == "Climatico":
+                registro_climatico = deepcopy(registro)
+                seccion = "Alimentos"
+                # print("** Informacion climatica:")
+                # print(registro_climatico)
+            elif seccion == "Alimentos":
+                registro_alimentos = deepcopy(registro)
+                # print("** Informacion alimentos:")
+                # print(registro_alimentos)
+
+        # Se define el registro general para la entrevista en curso
+        registro = registro_sec + registro_alimentos + \
+            registro_veg + registro_climatico
+
+        return registro

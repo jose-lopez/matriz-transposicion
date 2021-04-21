@@ -1,0 +1,61 @@
+Los valores (0,3) correspondientes a la variable CSB_10 en la entrevista 1_160812 no coinciden 
+
+Los valores (0,99) correspondientes a la variable PES_S2 en la entrevista 11_180812 no coinciden 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 14_180812 no coinciden 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 24_180812 no coinciden 
+
+Valor SALTO en variable 12 del alimento AJI_D entrevista 32_180812 
+
+Los valores (0,4) correspondientes a la variable AJI_D13 en la entrevista 53_240812 no coinciden 
+
+Los valores (0,4) correspondientes a la variable AJI_D13 en la entrevista 64_250812 no coinciden 
+
+Los valores (0,1) correspondientes a la variable ALM_5 en la entrevista 65_250812 no coinciden 
+
+Los valores (0,20) correspondientes a la variable ALM_6 en la entrevista 65_250812 no coinciden 
+
+Los valores (0,3) correspondientes a la variable ALM_10 en la entrevista 65_250812 no coinciden 
+
+Los valores (0,11) correspondientes a la variable ALM_11 en la entrevista 65_250812 no coinciden 
+
+Valor SALTO en variable 12 del alimento AJI_D entrevista 78_250812 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 110_220912 no coinciden 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 224_101112 no coinciden 
+
+Valor SALTO en variable 12 del alimento AJI_D entrevista 141_121012 
+
+Los valores (0,4) correspondientes a la variable AJI_D13 en la entrevista 144_121012 no coinciden 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 147_131012 no coinciden 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 159_131012 no coinciden 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 170_201012 no coinciden 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 183_201012 no coinciden 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 230_111112 no coinciden 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 238_221212 no coinciden 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 242_221212 no coinciden 
+
+Los valores (0,9) correspondientes a la variable GUAM14 en la entrevista 351_200413 no coinciden 
+
+Los valores (0,5) correspondientes a la variable GUAM14 en la entrevista 367_40513 no coinciden 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 418_10613 no coinciden 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 421_70613 no coinciden 
+
+Los valores (0,1) correspondientes a la variable BC_V14 en la entrevista 430_80613 no coinciden 
+
+Valor SALTO en variable 12 del alimento AJI_D entrevista 432_80613 
+
+Los valores (0,1) correspondientes a la variable AJI_D13 en la entrevista 435_80613 no coinciden 
+
+Valor SALTO en variable 12 del alimento AJI_D entrevista 212_81112  

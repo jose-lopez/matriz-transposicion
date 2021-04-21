@@ -1,0 +1,181 @@
+Advertencia: En la entrevista 1_160812: linea 1, el valor  en la variable EDAD no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor  en la variable N_EDU no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor  en la variable O_DED no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor  en la variable MISION no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor  en la variable N_Aco no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor  en la variable F_Aco no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor  en la variable FREC no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor  en la variable SALIDA no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor 0 en la variable AOESV1 no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor 0 en la variable BOSSV3 no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor 0 en la variable BOSVIn4 no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor 0 en la variable BREIn5 no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor 0 en la variable BRSV6 no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor 0 en la variable CA8 no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor 0 en la variable SAIn9 no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor 0 en la variable SArCh11 no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor 0 en la variable Llanos1 no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor 0 en la variable Penill2 no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor 0 en la variable MacizoG4 no tiene etiqueta asignada
+Advertencia: En la entrevista 1_160812: linea 1, el valor 3 en la variable ALIMENTO10 del alimento Mañoco no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable EDAD no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable N_EDU no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable O_DED no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable MISION no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable N_Aco no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable F_Aco no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable F_TRANSP no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable P_TRAN no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable SALIDA no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 0 en la variable AOESV1 no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 0 en la variable BOBSbSV2 no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 0 en la variable BOSSV3 no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 0 en la variable BOSVIn4 no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 0 en la variable BRSV6 no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 0 en la variable SAIn9 no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 0 en la variable SArCh11 no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 0 en la variable Penill2 no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 0 en la variable MacizoG4 no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable ALIMENTO3 del alimento Auyama no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable ALIMENTO4 del alimento Auyama no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable ALIMENTO9 del alimento Auyama no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 6 en la variable ALIMENTO10 del alimento Auyama no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable ALIMENTO3 del alimento Yuca no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable ALIMENTO7 del alimento Yuca no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 3 en la variable ALIMENTO10 del alimento Yuca no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable ALIMENTO3 del alimento Topocho no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable ALIMENTO4 del alimento Topocho no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 48 en la variable ALIMENTO10 del alimento Topocho no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable ALIMENTO3 del alimento Platano no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable ALIMENTO4 del alimento Platano no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable ALIMENTO7 del alimento Platano no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable ALIMENTO8 del alimento Platano no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor  en la variable ALIMENTO9 del alimento Platano no tiene etiqueta asignada
+Advertencia: En la entrevista 2_160812: linea 2, el valor 43 en la variable ALIMENTO10 del alimento Platano no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor  en la variable O_DED no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor  en la variable MISION no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor  en la variable N_Aco no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor  en la variable F_Aco no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor  en la variable F_TRANSP no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor  en la variable P_TRAN no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor  en la variable LLEGAD no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor  en la variable SALIDA no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor 0 en la variable AOESV1 no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor 0 en la variable BOBSbSV2 no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor 0 en la variable BOSSV3 no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor 0 en la variable BOSVIn4 no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor 0 en la variable BRSV6 no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor 0 en la variable SAIn9 no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor 0 en la variable SArCh11 no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor 0 en la variable Penill2 no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor 0 en la variable MacizoG4 no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor  en la variable ALIMENTO3 del alimento Casabe no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor 3 en la variable ALIMENTO10 del alimento Casabe no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor  en la variable ALIMENTO14 del alimento Casabe no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor  en la variable ALIMENTO3 del alimento Catara no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor 3 en la variable ALIMENTO10 del alimento Catara no tiene etiqueta asignada
+Advertencia: En la entrevista 3_160812: linea 3, el valor  en la variable ALIMENTO13 del alimento Catara no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor  en la variable EDAD no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor  en la variable N_EDU no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor  en la variable O_DED no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor  en la variable MISION no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor  en la variable N_Aco no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor  en la variable F_Aco no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor  en la variable FREC no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor  en la variable F_TRANSP no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor  en la variable P_TRAN no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor  en la variable LLEGAD no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor  en la variable SALIDA no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor 0 en la variable AOESV1 no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor 0 en la variable BOBSbSV2 no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor 0 en la variable BOSSV3 no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor 0 en la variable BOSVIn4 no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor 0 en la variable BRSV6 no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor 0 en la variable SAIn9 no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor 0 en la variable SArCh11 no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor 0 en la variable Penill2 no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor 0 en la variable MacizoG4 no tiene etiqueta asignada
+Advertencia: En la entrevista 4_160812: linea 4, el valor 53 en la variable ALIMENTO10 del alimento Jugo Manaca no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable EDAD no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable N_EDU no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable D_PPAL no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable O_DED no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable NACIM no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable MISION no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable N_Aco no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable F_Aco no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable FREC no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable F_TRANSP no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable P_TRAN no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable LLEGAD no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable SALIDA no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor 0 en la variable AOESV1 no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor 0 en la variable BOBSbSV2 no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor 0 en la variable BOSSV3 no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor 0 en la variable BOSVIn4 no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor 0 en la variable BRSV6 no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor 0 en la variable SAIn9 no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor 0 en la variable SArCh11 no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor 0 en la variable Penill2 no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor 0 en la variable MacizoG4 no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor 45 en la variable ALIMENTO10 del alimento Helado  seje no tiene etiqueta asignada
+Advertencia: En la entrevista 6_160812: linea 5, el valor  en la variable ALIMENTO13 del alimento Helado  seje no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable EDAD no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable N_EDU no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable D_PPAL no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable O_DED no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable MISION no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable N_Aco no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable F_Aco no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable FREC no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable F_TRANSP no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable P_TRAN no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable LLEGAD no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable SALIDA no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 0 en la variable AOESV1 no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 0 en la variable BOSVIn4 no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 0 en la variable BREIn5 no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 0 en la variable BRSV6 no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 0 en la variable BTBPSD7 no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 0 en la variable CA8 no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 0 en la variable SAIn9 no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 0 en la variable SArAr10 no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 0 en la variable SArCh11 no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 0 en la variable Llanos1 no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 0 en la variable Penill2 no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 14 en la variable ALIMENTO10 del alimento Batata  no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor 60 en la variable ALIMENTO10 del alimento Maíz Cariaco no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable ALIMENTO13 del alimento Maíz Cariaco no tiene etiqueta asignada
+Advertencia: En la entrevista 8_180812: linea 6, el valor  en la variable ALIMENTO14 del alimento Maíz Cariaco no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor  en la variable O_DED no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor  en la variable MISION no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor  en la variable P_TRAN no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor  en la variable SALIDA no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor 0 en la variable AOESV1 no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor 0 en la variable BOBSbSV2 no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor 0 en la variable BOSSV3 no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor 0 en la variable BOSVIn4 no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor 0 en la variable BRSV6 no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor 0 en la variable SAIn9 no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor 0 en la variable SArCh11 no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor 0 en la variable Penill2 no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor 0 en la variable MacizoG4 no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor 3 en la variable ALIMENTO10 del alimento Mañoco no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor  en la variable ALIMENTO3 del alimento Yuca no tiene etiqueta asignada
+Advertencia: En la entrevista 9_180812: linea 7, el valor 3 en la variable ALIMENTO10 del alimento Yuca no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor  en la variable EDAD no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor  en la variable O_DED no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor  en la variable FREC no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor  en la variable LLEGAD no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor  en la variable SALIDA no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor 0 en la variable AOESV1 no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor 0 en la variable BOBSbSV2 no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor 0 en la variable BOSSV3 no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor 0 en la variable BOSVIn4 no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor 0 en la variable BRSV6 no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor 0 en la variable SAIn9 no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor 0 en la variable Penill2 no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor 0 en la variable MacizoG4 no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor  en la variable ALIMENTO3 del alimento Casabe no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor 3 en la variable ALIMENTO10 del alimento Casabe no tiene etiqueta asignada
+Advertencia: En la entrevista 10_180812: linea 8, el valor 3 en la variable ALIMENTO10 del alimento Guarubé no tiene etiqueta asignada

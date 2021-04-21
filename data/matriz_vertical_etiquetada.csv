@@ -1,7 +1,2 @@
-Codigo;LAT_N;Edad;Hora de salida de la comunidad;Nombre alimento;Estado del alimento;Cantidad Global;Cantidad;Arbustales Ombrófilos Esclerófilos, Siempre Verdes;Bosques Ombrófilos Basimontanos, Sub-Siempre Verdes;Subregión D7 (Macizo Guayanés);Estacionalidad;Nivel del Rio Orinoco
-9_180812;5,66810347;15-30; ;Aji Picante;No vende el alimento;No vende el alimento;No vende el alimento;Presente;ausente;Presente;Estación seca;Subida de aguas
-9_180812;5,66810347;15-30; ;Ají Dulce;;No vende el alimento;;Presente;ausente;Presente;Estación seca;Subida de aguas
-9_180812;5,66810347;15-30; ;Almidón;No vende el alimento;No vende el alimento;No vende el alimento;Presente;ausente;Presente;Estación seca;Subida de aguas
-10_180812;6,001222417; ; ;Ají Dulce;;No vende el alimento;;ausente;Presente;Presente;Estación Lluviosa;Máximos niveles del río
-11_180812;5,98793267;15-30; ;Ají Dulce;;No vende el alimento;;ausente;Presente;Presente;Estación Lluviosa;Bajada de aguas
-11_180812;5,98793267;15-30; ;Almidón;No vende el alimento;No vende el alimento;No vende el alimento;ausente;Presente;Presente;Estación Lluviosa;Bajada de aguas
+CO_ID;LAT_N;SALIDA;;Edo;CantGlo;Cant;UdDetal;Precio;UdMayor;PrecioMay;PrecioTot;Especie;ClasAgr;Preset;Obtencion;RespAct;AOESV1;MacizoG4;Estacionalidad;Nivel del Río Orinoco
+32_180812;6,588;;Ají Dulce;No Proc;55;;1;15;0;0;0;2;Hortalizas ;SALTO;No vende;0;0;Est Lluviosa;MáxRío

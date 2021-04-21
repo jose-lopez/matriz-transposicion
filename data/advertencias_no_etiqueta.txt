@@ -1,0 +1,686 @@
+Entrevista 454_290613: linea 434, el valor 100 en la variable ALIMENTO4 del alimento Yuca no tiene etiqueta asignada
+Entrevista 454_290613: linea 434, el valor 1 en la variable ALIMENTO5 del alimento Yuca no tiene etiqueta asignada
+Entrevista 454_290613: linea 434, el valor 10 en la variable ALIMENTO6 del alimento Yuca no tiene etiqueta asignada
+Entrevista 454_290613: linea 434, el valor 3 en la variable ALIMENTO10 del alimento Yuca no tiene etiqueta asignada
+Entrevista 454_290613: linea 434, el valor 4 en la variable ALIMENTO12 del alimento Yuca no tiene etiqueta asignada
+Entrevista 455_290613: linea 435, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 455_290613: linea 435, el valor 30 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 455_290613: linea 435, el valor 119 en la variable ALIMENTO3 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 455_290613: linea 435, el valor 30 en la variable ALIMENTO5 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 455_290613: linea 435, el valor 20 en la variable ALIMENTO6 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 455_290613: linea 435, el valor 44 en la variable ALIMENTO10 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 455_290613: linea 435, el valor 20 en la variable ALIMENTO12 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 40 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 93 en la variable ALIMENTO3 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 7 en la variable ALIMENTO4 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 14 en la variable ALIMENTO4* del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 25 en la variable ALIMENTO5 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 40 en la variable ALIMENTO6 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 53 en la variable ALIMENTO10 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 22 en la variable ALIMENTO12 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 93 en la variable ALIMENTO3 del alimento Jugo SejePq no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 14 en la variable ALIMENTO4 del alimento Jugo SejePq no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 25 en la variable ALIMENTO5 del alimento Jugo SejePq no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 40 en la variable ALIMENTO6 del alimento Jugo SejePq no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 55 en la variable ALIMENTO10 del alimento Jugo SejePq no tiene etiqueta asignada
+Entrevista 456_290613: linea 436, el valor 22 en la variable ALIMENTO12 del alimento Jugo SejePq no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 150 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 1 en la variable ALIMENTO3 del alimento Bachaco Picante no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 3 en la variable ALIMENTO5 del alimento Bachaco Picante no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 10 en la variable ALIMENTO6 del alimento Bachaco Picante no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 9 en la variable ALIMENTO10 del alimento Bachaco Picante no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 80 en la variable ALIMENTO3 del alimento Carurú no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 10 en la variable ALIMENTO4 del alimento Carurú no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 10 en la variable ALIMENTO5 del alimento Carurú no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 10 en la variable ALIMENTO6 del alimento Carurú no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 23 en la variable ALIMENTO10 del alimento Carurú no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 15 en la variable ALIMENTO12 del alimento Carurú no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 80 en la variable ALIMENTO4 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 17 en la variable ALIMENTO5 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 10 en la variable ALIMENTO6 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 28 en la variable ALIMENTO10 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 7 en la variable ALIMENTO12 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 30 en la variable ALIMENTO3 del alimento Platano no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 41 en la variable ALIMENTO5 del alimento Platano no tiene etiqueta asignada
+Entrevista 457_290613: linea 437, el valor 43 en la variable ALIMENTO10 del alimento Platano no tiene etiqueta asignada
+Entrevista 458_290613: linea 438, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 458_290613: linea 438, el valor 80 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 458_290613: linea 438, el valor 114 en la variable ALIMENTO3 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 458_290613: linea 438, el valor 20 en la variable ALIMENTO4 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 458_290613: linea 438, el valor 1 en la variable ALIMENTO5 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 458_290613: linea 438, el valor 50 en la variable ALIMENTO6 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 458_290613: linea 438, el valor 44 en la variable ALIMENTO10 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 458_290613: linea 438, el valor 20 en la variable ALIMENTO12 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 459_290613: linea 439, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 459_290613: linea 439, el valor 200 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 459_290613: linea 439, el valor 47 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 459_290613: linea 439, el valor 100 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 459_290613: linea 439, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 459_290613: linea 439, el valor 10 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 459_290613: linea 439, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 459_290613: linea 439, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 459_290613: linea 439, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 250 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 47 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 100 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 10 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 60 en la variable ALIMENTO4 del alimento Seje Pequeño no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 1 en la variable ALIMENTO5 del alimento Seje Pequeño no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 10 en la variable ALIMENTO6 del alimento Seje Pequeño no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 55 en la variable ALIMENTO10 del alimento Seje Pequeño no tiene etiqueta asignada
+Entrevista 460_290613: linea 440, el valor 2 en la variable ALIMENTO12 del alimento Seje Pequeño no tiene etiqueta asignada
+Entrevista 461_290613: linea 441, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 461_290613: linea 441, el valor 60 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 461_290613: linea 441, el valor 89 en la variable ALIMENTO3 del alimento Catara no tiene etiqueta asignada
+Entrevista 461_290613: linea 441, el valor 80 en la variable ALIMENTO4* del alimento Catara no tiene etiqueta asignada
+Entrevista 461_290613: linea 441, el valor 25 en la variable ALIMENTO5 del alimento Catara no tiene etiqueta asignada
+Entrevista 461_290613: linea 441, el valor 25 en la variable ALIMENTO6 del alimento Catara no tiene etiqueta asignada
+Entrevista 461_290613: linea 441, el valor 3 en la variable ALIMENTO10 del alimento Catara no tiene etiqueta asignada
+Entrevista 461_290613: linea 441, el valor 18 en la variable ALIMENTO12 del alimento Catara no tiene etiqueta asignada
+Entrevista 462_290613: linea 442, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 462_290613: linea 442, el valor 30 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 462_290613: linea 442, el valor 146 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 462_290613: linea 442, el valor 120 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 462_290613: linea 442, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 462_290613: linea 442, el valor 8 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 462_290613: linea 442, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 462_290613: linea 442, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 462_290613: linea 442, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 463_290613: linea 443, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 463_290613: linea 443, el valor 67 en la variable NACIM no tiene etiqueta asignada
+Entrevista 463_290613: linea 443, el valor 20 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 463_290613: linea 443, el valor 16 en la variable ALIMENTO3 del alimento Jugo Copoasú no tiene etiqueta asignada
+Entrevista 463_290613: linea 443, el valor 24 en la variable ALIMENTO5 del alimento Jugo Copoasú no tiene etiqueta asignada
+Entrevista 463_290613: linea 443, el valor 10 en la variable ALIMENTO6 del alimento Jugo Copoasú no tiene etiqueta asignada
+Entrevista 463_290613: linea 443, el valor 30 en la variable ALIMENTO10 del alimento Jugo Copoasú no tiene etiqueta asignada
+Entrevista 463_290613: linea 443, el valor 21 en la variable ALIMENTO12 del alimento Jugo Copoasú no tiene etiqueta asignada
+Entrevista 463_290613: linea 443, el valor 30 en la variable ALIMENTO4 del alimento Pulpa  CopoasU no tiene etiqueta asignada
+Entrevista 463_290613: linea 443, el valor 1 en la variable ALIMENTO5 del alimento Pulpa  CopoasU no tiene etiqueta asignada
+Entrevista 463_290613: linea 443, el valor 30 en la variable ALIMENTO6 del alimento Pulpa  CopoasU no tiene etiqueta asignada
+Entrevista 463_290613: linea 443, el valor 30 en la variable ALIMENTO10 del alimento Pulpa  CopoasU no tiene etiqueta asignada
+Entrevista 464_290613: linea 444, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 464_290613: linea 444, el valor 25 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 464_290613: linea 444, el valor 22 en la variable ALIMENTO4 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 464_290613: linea 444, el valor 1 en la variable ALIMENTO5 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 464_290613: linea 444, el valor 10 en la variable ALIMENTO6 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 464_290613: linea 444, el valor 44 en la variable ALIMENTO10 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 464_290613: linea 444, el valor 7 en la variable ALIMENTO12 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 465_290613: linea 445, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 465_290613: linea 445, el valor 51 en la variable NACIM no tiene etiqueta asignada
+Entrevista 465_290613: linea 445, el valor 150 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 465_290613: linea 445, el valor 89 en la variable ALIMENTO3 del alimento Catara no tiene etiqueta asignada
+Entrevista 465_290613: linea 445, el valor 80 en la variable ALIMENTO4* del alimento Catara no tiene etiqueta asignada
+Entrevista 465_290613: linea 445, el valor 25 en la variable ALIMENTO5 del alimento Catara no tiene etiqueta asignada
+Entrevista 465_290613: linea 445, el valor 20 en la variable ALIMENTO6 del alimento Catara no tiene etiqueta asignada
+Entrevista 465_290613: linea 445, el valor 3 en la variable ALIMENTO10 del alimento Catara no tiene etiqueta asignada
+Entrevista 465_290613: linea 445, el valor 18 en la variable ALIMENTO12 del alimento Catara no tiene etiqueta asignada
+Entrevista 466_290613: linea 446, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 466_290613: linea 446, el valor 90 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 466_290613: linea 446, el valor 47 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 466_290613: linea 446, el valor 100 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 466_290613: linea 446, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 466_290613: linea 446, el valor 10 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 466_290613: linea 446, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 466_290613: linea 446, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 466_290613: linea 446, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 467_290613: linea 447, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 467_290613: linea 447, el valor 50 en la variable ALIMENTO4 del alimento Seje Grande no tiene etiqueta asignada
+Entrevista 467_290613: linea 447, el valor 1 en la variable ALIMENTO5 del alimento Seje Grande no tiene etiqueta asignada
+Entrevista 467_290613: linea 447, el valor 54 en la variable ALIMENTO10 del alimento Seje Grande no tiene etiqueta asignada
+Entrevista 467_290613: linea 447, el valor 30 en la variable ALIMENTO12 del alimento Seje Grande no tiene etiqueta asignada
+Entrevista 468_290613: linea 448, el valor Junio en la variable MES no tiene etiqueta asignada
+Entrevista 468_290613: linea 448, el valor 8 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 468_290613: linea 448, el valor 110 en la variable ALIMENTO3 del alimento MangoSejeMoriche no tiene etiqueta asignada
+Entrevista 468_290613: linea 448, el valor 40 en la variable ALIMENTO4 del alimento MangoSejeMoriche no tiene etiqueta asignada
+Entrevista 468_290613: linea 448, el valor 8 en la variable ALIMENTO5 del alimento MangoSejeMoriche no tiene etiqueta asignada
+Entrevista 468_290613: linea 448, el valor 5 en la variable ALIMENTO6 del alimento MangoSejeMoriche no tiene etiqueta asignada
+Entrevista 468_290613: linea 448, el valor 46 en la variable ALIMENTO10 del alimento MangoSejeMoriche no tiene etiqueta asignada
+Entrevista 468_290613: linea 448, el valor 1 en la variable ALIMENTO12 del alimento MangoSejeMoriche no tiene etiqueta asignada
+Entrevista 469_60713: linea 449, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 469_60713: linea 449, el valor 500 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 469_60713: linea 449, el valor 133 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 469_60713: linea 449, el valor 80 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 469_60713: linea 449, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 469_60713: linea 449, el valor 8 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 469_60713: linea 449, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 469_60713: linea 449, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 469_60713: linea 449, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 470_60713: linea 450, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 470_60713: linea 450, el valor 30 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 470_60713: linea 450, el valor 39 en la variable ALIMENTO3 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 470_60713: linea 450, el valor 60 en la variable ALIMENTO4 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 470_60713: linea 450, el valor 1 en la variable ALIMENTO5 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 470_60713: linea 450, el valor 3 en la variable ALIMENTO10 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 470_60713: linea 450, el valor 2 en la variable ALIMENTO12 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 30 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 2 en la variable ALIMENTO5 del alimento Aji Picante no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 143 en la variable ALIMENTO6 del alimento Aji Picante no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 1 en la variable ALIMENTO10 del alimento Aji Picante no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 6 en la variable ALIMENTO4 del alimento Auyama no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 1 en la variable ALIMENTO5 del alimento Auyama no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 10 en la variable ALIMENTO6 del alimento Auyama no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 6 en la variable ALIMENTO10 del alimento Auyama no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 25 en la variable ALIMENTO4 del alimento Casabe no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 16 en la variable ALIMENTO5 del alimento Casabe no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 35 en la variable ALIMENTO6 del alimento Casabe no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 3 en la variable ALIMENTO10 del alimento Casabe no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 17 en la variable ALIMENTO12 del alimento Casabe no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 6 en la variable ALIMENTO4 del alimento Ñame no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 1 en la variable ALIMENTO5 del alimento Ñame no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 15 en la variable ALIMENTO6 del alimento Ñame no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 72 en la variable ALIMENTO10 del alimento Ñame no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 4 en la variable ALIMENTO12 del alimento Ñame no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 10 en la variable ALIMENTO4 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 1 en la variable ALIMENTO5 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 20 en la variable ALIMENTO6 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 93 en la variable ALIMENTO10 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 4 en la variable ALIMENTO12 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 29 en la variable ALIMENTO3 del alimento Platano no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 30 en la variable ALIMENTO4 del alimento Platano no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 41 en la variable ALIMENTO5 del alimento Platano no tiene etiqueta asignada
+Entrevista 471_60713: linea 451, el valor 43 en la variable ALIMENTO10 del alimento Platano no tiene etiqueta asignada
+Entrevista 472_60713: linea 452, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 472_60713: linea 452, el valor 200 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 472_60713: linea 452, el valor 2 en la variable LLEGAD no tiene etiqueta asignada
+Entrevista 472_60713: linea 452, el valor 176 en la variable ALIMENTO3 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 472_60713: linea 452, el valor 182 en la variable ALIMENTO4 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 472_60713: linea 452, el valor 1 en la variable ALIMENTO5 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 472_60713: linea 452, el valor 11 en la variable ALIMENTO7 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 472_60713: linea 452, el valor 3 en la variable ALIMENTO10 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 472_60713: linea 452, el valor 2 en la variable ALIMENTO12 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 473_60713: linea 453, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 473_60713: linea 453, el valor 100 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 473_60713: linea 453, el valor 7 en la variable ALIMENTO5 del alimento Almidón no tiene etiqueta asignada
+Entrevista 473_60713: linea 453, el valor 15 en la variable ALIMENTO6 del alimento Almidón no tiene etiqueta asignada
+Entrevista 473_60713: linea 453, el valor 3 en la variable ALIMENTO10 del alimento Almidón no tiene etiqueta asignada
+Entrevista 473_60713: linea 453, el valor 1 en la variable ALIMENTO12 del alimento Almidón no tiene etiqueta asignada
+Entrevista 473_60713: linea 453, el valor 60 en la variable ALIMENTO4 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 473_60713: linea 453, el valor 1 en la variable ALIMENTO5 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 473_60713: linea 453, el valor 15 en la variable ALIMENTO6 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 473_60713: linea 453, el valor 93 en la variable ALIMENTO10 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 473_60713: linea 453, el valor 4 en la variable ALIMENTO12 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 474_60713: linea 454, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 474_60713: linea 454, el valor 110 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 474_60713: linea 454, el valor 3 en la variable ALIMENTO4 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 474_60713: linea 454, el valor 1 en la variable ALIMENTO5 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 474_60713: linea 454, el valor 10 en la variable ALIMENTO6 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 474_60713: linea 454, el valor 44 en la variable ALIMENTO10 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 474_60713: linea 454, el valor 7 en la variable ALIMENTO12 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 160 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 2 en la variable LLEGAD no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 6 en la variable SALIDA no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 146 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 120 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 10 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 40 en la variable ALIMENTO4 del alimento Seje Grande no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 1 en la variable ALIMENTO5 del alimento Seje Grande no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 54 en la variable ALIMENTO10 del alimento Seje Grande no tiene etiqueta asignada
+Entrevista 475_60713: linea 455, el valor 2 en la variable ALIMENTO12 del alimento Seje Grande no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor 25 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor 136 en la variable ALIMENTO3 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor 6 en la variable ALIMENTO4 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor 1 en la variable ALIMENTO5 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor 15 en la variable ALIMENTO6 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor 59 en la variable ALIMENTO10 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor 57 en la variable ALIMENTO3 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor 30 en la variable ALIMENTO4 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor 1 en la variable ALIMENTO5 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor 40 en la variable ALIMENTO6 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor 44 en la variable ALIMENTO10 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 476_60713: linea 456, el valor 20 en la variable ALIMENTO12 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 12 en la variable NACIM no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 130 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 3 en la variable ALIMENTO4 del alimento CañaAzúcar no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 10 en la variable ALIMENTO5 del alimento CañaAzúcar no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 10 en la variable ALIMENTO6 del alimento CañaAzúcar no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 21 en la variable ALIMENTO10 del alimento CañaAzúcar no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 10 en la variable ALIMENTO4 del alimento Jengibre no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 15 en la variable ALIMENTO5 del alimento Jengibre no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 10 en la variable ALIMENTO6 del alimento Jengibre no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 52 en la variable ALIMENTO10 del alimento Jengibre no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 137 en la variable ALIMENTO3 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 17 en la variable ALIMENTO4 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 1 en la variable ALIMENTO5 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 10 en la variable ALIMENTO6 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 59 en la variable ALIMENTO10 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 140 en la variable ALIMENTO3 del alimento Maíz Cariaco no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 240 en la variable ALIMENTO4 del alimento Maíz Cariaco no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 10 en la variable ALIMENTO5 del alimento Maíz Cariaco no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 2 en la variable ALIMENTO6 del alimento Maíz Cariaco no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 60 en la variable ALIMENTO10 del alimento Maíz Cariaco no tiene etiqueta asignada
+Entrevista 477_60713: linea 457, el valor 7 en la variable ALIMENTO12 del alimento Maíz Cariaco no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 20 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 25 en la variable ALIMENTO4 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 17 en la variable ALIMENTO5 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 10 en la variable ALIMENTO6 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 28 en la variable ALIMENTO10 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 7 en la variable ALIMENTO12 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 141 en la variable ALIMENTO3 del alimento Maíz Cariaco no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 25 en la variable ALIMENTO4 del alimento Maíz Cariaco no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 10 en la variable ALIMENTO5 del alimento Maíz Cariaco no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 10 en la variable ALIMENTO6 del alimento Maíz Cariaco no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 60 en la variable ALIMENTO10 del alimento Maíz Cariaco no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 7 en la variable ALIMENTO12 del alimento Maíz Cariaco no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 30 en la variable ALIMENTO3 del alimento Platano no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 34 en la variable ALIMENTO5 del alimento Platano no tiene etiqueta asignada
+Entrevista 478_60713: linea 458, el valor 43 en la variable ALIMENTO10 del alimento Platano no tiene etiqueta asignada
+Entrevista 479_60713: linea 459, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 479_60713: linea 459, el valor 64 en la variable NACIM no tiene etiqueta asignada
+Entrevista 479_60713: linea 459, el valor 40 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 479_60713: linea 459, el valor 3 en la variable LLEGAD no tiene etiqueta asignada
+Entrevista 479_60713: linea 459, el valor 138 en la variable ALIMENTO3 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 479_60713: linea 459, el valor 27 en la variable ALIMENTO4 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 479_60713: linea 459, el valor 1 en la variable ALIMENTO5 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 479_60713: linea 459, el valor 15 en la variable ALIMENTO6 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 479_60713: linea 459, el valor 59 en la variable ALIMENTO10 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 479_60713: linea 459, el valor 1 en la variable ALIMENTO12 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 480_60713: linea 460, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 480_60713: linea 460, el valor 60 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 480_60713: linea 460, el valor 39 en la variable ALIMENTO3 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 480_60713: linea 460, el valor 60 en la variable ALIMENTO4 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 480_60713: linea 460, el valor 1 en la variable ALIMENTO5 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 480_60713: linea 460, el valor 3 en la variable ALIMENTO10 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 480_60713: linea 460, el valor 2 en la variable ALIMENTO12 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 480_60713: linea 460, el valor 80 en la variable ALIMENTO4 del alimento Seje Grande no tiene etiqueta asignada
+Entrevista 480_60713: linea 460, el valor 1 en la variable ALIMENTO5 del alimento Seje Grande no tiene etiqueta asignada
+Entrevista 480_60713: linea 460, el valor 54 en la variable ALIMENTO10 del alimento Seje Grande no tiene etiqueta asignada
+Entrevista 480_60713: linea 460, el valor 2 en la variable ALIMENTO12 del alimento Seje Grande no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 30 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 40 en la variable ALIMENTO4 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 17 en la variable ALIMENTO5 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 10 en la variable ALIMENTO6 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 28 en la variable ALIMENTO10 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 158 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 37 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 10 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 20 en la variable ALIMENTO4 del alimento Orégano no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 17 en la variable ALIMENTO5 del alimento Orégano no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 10 en la variable ALIMENTO6 del alimento Orégano no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 76 en la variable ALIMENTO10 del alimento Orégano no tiene etiqueta asignada
+Entrevista 481_60713: linea 461, el valor 7 en la variable ALIMENTO12 del alimento Orégano no tiene etiqueta asignada
+Entrevista 482_60713: linea 462, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 482_60713: linea 462, el valor 55 en la variable NACIM no tiene etiqueta asignada
+Entrevista 482_60713: linea 462, el valor 10 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 482_60713: linea 462, el valor 3 en la variable LLEGAD no tiene etiqueta asignada
+Entrevista 482_60713: linea 462, el valor 10 en la variable ALIMENTO4 del alimento Orégano no tiene etiqueta asignada
+Entrevista 482_60713: linea 462, el valor 17 en la variable ALIMENTO5 del alimento Orégano no tiene etiqueta asignada
+Entrevista 482_60713: linea 462, el valor 10 en la variable ALIMENTO6 del alimento Orégano no tiene etiqueta asignada
+Entrevista 482_60713: linea 462, el valor 76 en la variable ALIMENTO10 del alimento Orégano no tiene etiqueta asignada
+Entrevista 482_60713: linea 462, el valor 7 en la variable ALIMENTO12 del alimento Orégano no tiene etiqueta asignada
+Entrevista 483_60713: linea 463, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 483_60713: linea 463, el valor 47 en la variable ALIMENTO3 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 483_60713: linea 463, el valor 160 en la variable ALIMENTO4 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 483_60713: linea 463, el valor 1 en la variable ALIMENTO5 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 483_60713: linea 463, el valor 1 en la variable ALIMENTO7 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 483_60713: linea 463, el valor 15 en la variable ALIMENTO8 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 483_60713: linea 463, el valor 30 en la variable ALIMENTO10 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 483_60713: linea 463, el valor 4 en la variable ALIMENTO12 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 484_60713: linea 464, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 484_60713: linea 464, el valor 20 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 484_60713: linea 464, el valor 3 en la variable ALIMENTO5 del alimento Bachacos Tamari no tiene etiqueta asignada
+Entrevista 484_60713: linea 464, el valor 10 en la variable ALIMENTO6 del alimento Bachacos Tamari no tiene etiqueta asignada
+Entrevista 484_60713: linea 464, el valor 10 en la variable ALIMENTO10 del alimento Bachacos Tamari no tiene etiqueta asignada
+Entrevista 484_60713: linea 464, el valor 7 en la variable ALIMENTO12 del alimento Bachacos Tamari no tiene etiqueta asignada
+Entrevista 485_60713: linea 465, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 485_60713: linea 465, el valor 100 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 485_60713: linea 465, el valor 113 en la variable ALIMENTO3 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 485_60713: linea 465, el valor 80 en la variable ALIMENTO4 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 485_60713: linea 465, el valor 10 en la variable ALIMENTO5 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 485_60713: linea 465, el valor 30 en la variable ALIMENTO10 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 485_60713: linea 465, el valor 4 en la variable ALIMENTO12 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 485_60713: linea 465, el valor 146 en la variable ALIMENTO3 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 485_60713: linea 465, el valor 120 en la variable ALIMENTO4 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 485_60713: linea 465, el valor 1 en la variable ALIMENTO5 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 485_60713: linea 465, el valor 3 en la variable ALIMENTO10 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 485_60713: linea 465, el valor 2 en la variable ALIMENTO12 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 600 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 107 en la variable ALIMENTO3 del alimento Chiquichiqui no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 500 en la variable ALIMENTO4 del alimento Chiquichiqui no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 1 en la variable ALIMENTO5 del alimento Chiquichiqui no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 20 en la variable ALIMENTO6 del alimento Chiquichiqui no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 27 en la variable ALIMENTO10 del alimento Chiquichiqui no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 2 en la variable ALIMENTO12 del alimento Chiquichiqui no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 113 en la variable ALIMENTO3 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 80 en la variable ALIMENTO4 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 10 en la variable ALIMENTO5 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 30 en la variable ALIMENTO10 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 4 en la variable ALIMENTO12 del alimento Copoasú no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 57 en la variable ALIMENTO3 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 30 en la variable ALIMENTO4 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 1 en la variable ALIMENTO5 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 20 en la variable ALIMENTO6 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 486_60713: linea 466, el valor 59 en la variable ALIMENTO10 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 27 en la variable NACIM no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 30 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 88 en la variable ALIMENTO3 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 13 en la variable ALIMENTO4 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 26 en la variable ALIMENTO4* del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 25 en la variable ALIMENTO5 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 40 en la variable ALIMENTO6 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 53 en la variable ALIMENTO10 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 22 en la variable ALIMENTO12 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 15 en la variable ALIMENTO3 del alimento Jugo SejePq no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 4 en la variable ALIMENTO4 del alimento Jugo SejePq no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 25 en la variable ALIMENTO5 del alimento Jugo SejePq no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 40 en la variable ALIMENTO6 del alimento Jugo SejePq no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 55 en la variable ALIMENTO10 del alimento Jugo SejePq no tiene etiqueta asignada
+Entrevista 487_60713: linea 467, el valor 22 en la variable ALIMENTO12 del alimento Jugo SejePq no tiene etiqueta asignada
+Entrevista 488_200713: linea 468, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 488_200713: linea 468, el valor 50 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 488_200713: linea 468, el valor 2 en la variable LLEGAD no tiene etiqueta asignada
+Entrevista 488_200713: linea 468, el valor 57 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 488_200713: linea 468, el valor 30 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 488_200713: linea 468, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 488_200713: linea 468, el valor 8 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 488_200713: linea 468, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 488_200713: linea 468, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 488_200713: linea 468, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 50 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 3 en la variable LLEGAD no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 89 en la variable ALIMENTO3 del alimento Catara no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 6 en la variable ALIMENTO4* del alimento Catara no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 25 en la variable ALIMENTO5 del alimento Catara no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 20 en la variable ALIMENTO6 del alimento Catara no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 3 en la variable ALIMENTO10 del alimento Catara no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 18 en la variable ALIMENTO12 del alimento Catara no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 75 en la variable ALIMENTO3 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 9 en la variable ALIMENTO4 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 1 en la variable ALIMENTO5 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 3 en la variable ALIMENTO10 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 489_200713: linea 469, el valor 2 en la variable ALIMENTO12 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 490_200713: linea 470, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 490_200713: linea 470, el valor 400 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 490_200713: linea 470, el valor 3 en la variable LLEGAD no tiene etiqueta asignada
+Entrevista 490_200713: linea 470, el valor 20 en la variable ALIMENTO4 del alimento Casabe no tiene etiqueta asignada
+Entrevista 490_200713: linea 470, el valor 16 en la variable ALIMENTO5 del alimento Casabe no tiene etiqueta asignada
+Entrevista 490_200713: linea 470, el valor 45 en la variable ALIMENTO6 del alimento Casabe no tiene etiqueta asignada
+Entrevista 490_200713: linea 470, el valor 3 en la variable ALIMENTO10 del alimento Casabe no tiene etiqueta asignada
+Entrevista 490_200713: linea 470, el valor 17 en la variable ALIMENTO12 del alimento Casabe no tiene etiqueta asignada
+Entrevista 491_200713: linea 471, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 491_200713: linea 471, el valor 400 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 491_200713: linea 471, el valor 3 en la variable LLEGAD no tiene etiqueta asignada
+Entrevista 491_200713: linea 471, el valor 25 en la variable ALIMENTO4 del alimento Casabe no tiene etiqueta asignada
+Entrevista 491_200713: linea 471, el valor 16 en la variable ALIMENTO5 del alimento Casabe no tiene etiqueta asignada
+Entrevista 491_200713: linea 471, el valor 40 en la variable ALIMENTO6 del alimento Casabe no tiene etiqueta asignada
+Entrevista 491_200713: linea 471, el valor 3 en la variable ALIMENTO10 del alimento Casabe no tiene etiqueta asignada
+Entrevista 491_200713: linea 471, el valor 17 en la variable ALIMENTO12 del alimento Casabe no tiene etiqueta asignada
+Entrevista 492_200713: linea 472, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 492_200713: linea 472, el valor 400 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 492_200713: linea 472, el valor 3 en la variable LLEGAD no tiene etiqueta asignada
+Entrevista 492_200713: linea 472, el valor 22 en la variable ALIMENTO4 del alimento Casabe no tiene etiqueta asignada
+Entrevista 492_200713: linea 472, el valor 16 en la variable ALIMENTO5 del alimento Casabe no tiene etiqueta asignada
+Entrevista 492_200713: linea 472, el valor 45 en la variable ALIMENTO6 del alimento Casabe no tiene etiqueta asignada
+Entrevista 492_200713: linea 472, el valor 3 en la variable ALIMENTO10 del alimento Casabe no tiene etiqueta asignada
+Entrevista 492_200713: linea 472, el valor 17 en la variable ALIMENTO12 del alimento Casabe no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 50 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 1 en la variable LLEGAD no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 5 en la variable SALIDA no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 54 en la variable ALIMENTO4 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 17 en la variable ALIMENTO5 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 10 en la variable ALIMENTO6 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 28 en la variable ALIMENTO10 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 7 en la variable ALIMENTO12 del alimento Cilantro no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 159 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 200 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 8 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 493_200713: linea 473, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 494_200713: linea 474, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 494_200713: linea 474, el valor 160 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 494_200713: linea 474, el valor 105 en la variable ALIMENTO3 del alimento Catara no tiene etiqueta asignada
+Entrevista 494_200713: linea 474, el valor 80 en la variable ALIMENTO4* del alimento Catara no tiene etiqueta asignada
+Entrevista 494_200713: linea 474, el valor 25 en la variable ALIMENTO5 del alimento Catara no tiene etiqueta asignada
+Entrevista 494_200713: linea 474, el valor 20 en la variable ALIMENTO6 del alimento Catara no tiene etiqueta asignada
+Entrevista 494_200713: linea 474, el valor 3 en la variable ALIMENTO10 del alimento Catara no tiene etiqueta asignada
+Entrevista 494_200713: linea 474, el valor 18 en la variable ALIMENTO12 del alimento Catara no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 300 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 1 en la variable LLEGAD no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 30 en la variable ALIMENTO4 del alimento Auyama no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 1 en la variable ALIMENTO5 del alimento Auyama no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 15 en la variable ALIMENTO6 del alimento Auyama no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 6 en la variable ALIMENTO10 del alimento Auyama no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 108 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 140 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 8 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 100 en la variable ALIMENTO4 del alimento Yuca no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 1 en la variable ALIMENTO5 del alimento Yuca no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 15 en la variable ALIMENTO6 del alimento Yuca no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 3 en la variable ALIMENTO10 del alimento Yuca no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 4 en la variable ALIMENTO12 del alimento Yuca no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 32 en la variable ALIMENTO3 del alimento Topocho no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 34 en la variable ALIMENTO5 del alimento Topocho no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 48 en la variable ALIMENTO10 del alimento Topocho no tiene etiqueta asignada
+Entrevista 495_200713: linea 475, el valor 14 en la variable ALIMENTO12 del alimento Topocho no tiene etiqueta asignada
+Entrevista 496_200713: linea 476, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 496_200713: linea 476, el valor 25 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 496_200713: linea 476, el valor 114 en la variable ALIMENTO3 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 496_200713: linea 476, el valor 20 en la variable ALIMENTO4 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 496_200713: linea 476, el valor 30 en la variable ALIMENTO5 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 496_200713: linea 476, el valor 25 en la variable ALIMENTO6 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 496_200713: linea 476, el valor 44 en la variable ALIMENTO10 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 496_200713: linea 476, el valor 20 en la variable ALIMENTO12 del alimento Masa  moriche no tiene etiqueta asignada
+Entrevista 497_200713: linea 477, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 497_200713: linea 477, el valor 250 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 497_200713: linea 477, el valor 154 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 497_200713: linea 477, el valor 180 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 497_200713: linea 477, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 497_200713: linea 477, el valor 8 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 497_200713: linea 477, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 497_200713: linea 477, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 497_200713: linea 477, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 50 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 1 en la variable ALIMENTO3 del alimento Bachaco Picante no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 3 en la variable ALIMENTO5 del alimento Bachaco Picante no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 10 en la variable ALIMENTO6 del alimento Bachaco Picante no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 9 en la variable ALIMENTO10 del alimento Bachaco Picante no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 80 en la variable ALIMENTO3 del alimento Carurú no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 10 en la variable ALIMENTO4 del alimento Carurú no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 10 en la variable ALIMENTO5 del alimento Carurú no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 10 en la variable ALIMENTO6 del alimento Carurú no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 23 en la variable ALIMENTO10 del alimento Carurú no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 15 en la variable ALIMENTO12 del alimento Carurú no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 54 en la variable ALIMENTO3 del alimento Guayaba Arazá no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 3 en la variable ALIMENTO4 del alimento Guayaba Arazá no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 1 en la variable ALIMENTO5 del alimento Guayaba Arazá no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 25 en la variable ALIMENTO6 del alimento Guayaba Arazá no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 41 en la variable ALIMENTO10 del alimento Guayaba Arazá no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 25 en la variable ALIMENTO4 del alimento Yuri no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 1 en la variable ALIMENTO5 del alimento Yuri no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 20 en la variable ALIMENTO6 del alimento Yuri no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 95 en la variable ALIMENTO10 del alimento Yuri no tiene etiqueta asignada
+Entrevista 498_200713: linea 478, el valor 2 en la variable ALIMENTO12 del alimento Yuri no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 40 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 39 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 60 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 10 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 24 en la variable ALIMENTO4 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 1 en la variable ALIMENTO5 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 10 en la variable ALIMENTO6 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 44 en la variable ALIMENTO10 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 499_200713: linea 479, el valor 7 en la variable ALIMENTO12 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 500_200713: linea 480, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 500_200713: linea 480, el valor 500 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 500_200713: linea 480, el valor 2 en la variable ALIMENTO4 del alimento Aji Picante no tiene etiqueta asignada
+Entrevista 500_200713: linea 480, el valor 2 en la variable ALIMENTO5 del alimento Aji Picante no tiene etiqueta asignada
+Entrevista 500_200713: linea 480, el valor 143 en la variable ALIMENTO6 del alimento Aji Picante no tiene etiqueta asignada
+Entrevista 500_200713: linea 480, el valor 1 en la variable ALIMENTO10 del alimento Aji Picante no tiene etiqueta asignada
+Entrevista 500_200713: linea 480, el valor 60 en la variable ALIMENTO4 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 500_200713: linea 480, el valor 1 en la variable ALIMENTO5 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 500_200713: linea 480, el valor 20 en la variable ALIMENTO6 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 500_200713: linea 480, el valor 93 en la variable ALIMENTO10 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 500_200713: linea 480, el valor 4 en la variable ALIMENTO12 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 501_200713: linea 481, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 501_200713: linea 481, el valor 68 en la variable NACIM no tiene etiqueta asignada
+Entrevista 501_200713: linea 481, el valor 40 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 501_200713: linea 481, el valor 16 en la variable ALIMENTO3 del alimento Jugo Copoasú no tiene etiqueta asignada
+Entrevista 501_200713: linea 481, el valor 24 en la variable ALIMENTO5 del alimento Jugo Copoasú no tiene etiqueta asignada
+Entrevista 501_200713: linea 481, el valor 10 en la variable ALIMENTO6 del alimento Jugo Copoasú no tiene etiqueta asignada
+Entrevista 501_200713: linea 481, el valor 30 en la variable ALIMENTO10 del alimento Jugo Copoasú no tiene etiqueta asignada
+Entrevista 501_200713: linea 481, el valor 21 en la variable ALIMENTO12 del alimento Jugo Copoasú no tiene etiqueta asignada
+Entrevista 501_200713: linea 481, el valor 77 en la variable ALIMENTO4 del alimento Pulpa  CopoasU no tiene etiqueta asignada
+Entrevista 501_200713: linea 481, el valor 1 en la variable ALIMENTO5 del alimento Pulpa  CopoasU no tiene etiqueta asignada
+Entrevista 501_200713: linea 481, el valor 25 en la variable ALIMENTO6 del alimento Pulpa  CopoasU no tiene etiqueta asignada
+Entrevista 501_200713: linea 481, el valor 30 en la variable ALIMENTO10 del alimento Pulpa  CopoasU no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor 60 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor 3 en la variable LLEGAD no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor 114 en la variable ALIMENTO3 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor 20 en la variable ALIMENTO4 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor 1 en la variable ALIMENTO5 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor 10 en la variable ALIMENTO6 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor 59 en la variable ALIMENTO10 del alimento Limón criollo no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor 40 en la variable ALIMENTO4 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor 1 en la variable ALIMENTO5 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor 10 en la variable ALIMENTO6 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor 44 en la variable ALIMENTO10 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 502_200713: linea 482, el valor 7 en la variable ALIMENTO12 del alimento Moriche  pepa no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 190 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 115 en la variable ALIMENTO3 del alimento Catara no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 25 en la variable ALIMENTO5 del alimento Catara no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 20 en la variable ALIMENTO6 del alimento Catara no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 3 en la variable ALIMENTO10 del alimento Catara no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 18 en la variable ALIMENTO12 del alimento Catara no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 84 en la variable ALIMENTO3 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 20 en la variable ALIMENTO4 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 40 en la variable ALIMENTO4* del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 25 en la variable ALIMENTO5 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 25 en la variable ALIMENTO6 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 53 en la variable ALIMENTO10 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 22 en la variable ALIMENTO12 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 39 en la variable ALIMENTO3 del alimento Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 60 en la variable ALIMENTO4 del alimento Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 1 en la variable ALIMENTO5 del alimento Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 10 en la variable ALIMENTO6 del alimento Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 53 en la variable ALIMENTO10 del alimento Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 2 en la variable ALIMENTO12 del alimento Manaca no tiene etiqueta asignada
+Entrevista 503_200713: linea 483, el valor 3 en la variable ALIMENTO13 del alimento Manaca no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 25 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 2 en la variable ALIMENTO5 del alimento Aji Picante no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 143 en la variable ALIMENTO6 del alimento Aji Picante no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 1 en la variable ALIMENTO10 del alimento Aji Picante no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 20 en la variable ALIMENTO4 del alimento Auyama no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 1 en la variable ALIMENTO5 del alimento Auyama no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 10 en la variable ALIMENTO6 del alimento Auyama no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 6 en la variable ALIMENTO10 del alimento Auyama no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 81 en la variable ALIMENTO3 del alimento Carurú no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 14 en la variable ALIMENTO4 del alimento Carurú no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 10 en la variable ALIMENTO5 del alimento Carurú no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 10 en la variable ALIMENTO6 del alimento Carurú no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 23 en la variable ALIMENTO10 del alimento Carurú no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 15 en la variable ALIMENTO12 del alimento Carurú no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 8 en la variable ALIMENTO4 del alimento Orégano no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 17 en la variable ALIMENTO5 del alimento Orégano no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 10 en la variable ALIMENTO6 del alimento Orégano no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 76 en la variable ALIMENTO10 del alimento Orégano no tiene etiqueta asignada
+Entrevista 504_200713: linea 484, el valor 7 en la variable ALIMENTO12 del alimento Orégano no tiene etiqueta asignada
+Entrevista 505_200713: linea 485, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 505_200713: linea 485, el valor 10 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 505_200713: linea 485, el valor 30 en la variable ALIMENTO4 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 505_200713: linea 485, el valor 1 en la variable ALIMENTO5 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 505_200713: linea 485, el valor 15 en la variable ALIMENTO6 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 505_200713: linea 485, el valor 93 en la variable ALIMENTO10 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 505_200713: linea 485, el valor 4 en la variable ALIMENTO12 del alimento Túpiro no tiene etiqueta asignada
+Entrevista 506_200713: linea 486, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 506_200713: linea 486, el valor 20 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 506_200713: linea 486, el valor 20 en la variable ALIMENTO4 del alimento Auyama no tiene etiqueta asignada
+Entrevista 506_200713: linea 486, el valor 1 en la variable ALIMENTO5 del alimento Auyama no tiene etiqueta asignada
+Entrevista 506_200713: linea 486, el valor 15 en la variable ALIMENTO6 del alimento Auyama no tiene etiqueta asignada
+Entrevista 506_200713: linea 486, el valor 6 en la variable ALIMENTO10 del alimento Auyama no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 61 en la variable NACIM no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 160 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 40 en la variable ALIMENTO4 del alimento Auyama no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 1 en la variable ALIMENTO5 del alimento Auyama no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 15 en la variable ALIMENTO6 del alimento Auyama no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 6 en la variable ALIMENTO10 del alimento Auyama no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 3 en la variable ALIMENTO4 del alimento CañaAzúcar no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 10 en la variable ALIMENTO5 del alimento CañaAzúcar no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 10 en la variable ALIMENTO6 del alimento CañaAzúcar no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 21 en la variable ALIMENTO10 del alimento CañaAzúcar no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 31 en la variable ALIMENTO3 del alimento Topocho no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 18 en la variable ALIMENTO5 del alimento Topocho no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 48 en la variable ALIMENTO10 del alimento Topocho no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 4 en la variable ALIMENTO12 del alimento Topocho no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 30 en la variable ALIMENTO3 del alimento Platano no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 34 en la variable ALIMENTO5 del alimento Platano no tiene etiqueta asignada
+Entrevista 507_200713: linea 487, el valor 43 en la variable ALIMENTO10 del alimento Platano no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 20 en la variable ALIMENTO3 del alimento Almidón no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 10 en la variable ALIMENTO4 del alimento Almidón no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 6 en la variable ALIMENTO5 del alimento Almidón no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 25 en la variable ALIMENTO6 del alimento Almidón no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 3 en la variable ALIMENTO10 del alimento Almidón no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 177 en la variable ALIMENTO3 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 12 en la variable ALIMENTO4 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 1 en la variable ALIMENTO5 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 3 en la variable ALIMENTO10 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 2 en la variable ALIMENTO12 del alimento Mañoco no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 15 en la variable ALIMENTO3 del alimento Yucuta Manaca no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 40 en la variable ALIMENTO5 del alimento Yucuta Manaca no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 35 en la variable ALIMENTO6 del alimento Yucuta Manaca no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 53 en la variable ALIMENTO10 del alimento Yucuta Manaca no tiene etiqueta asignada
+Entrevista 508_200713: linea 488, el valor 31 en la variable ALIMENTO12 del alimento Yucuta Manaca no tiene etiqueta asignada
+Entrevista 509_200713: linea 489, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 509_200713: linea 489, el valor 72 en la variable NACIM no tiene etiqueta asignada
+Entrevista 509_200713: linea 489, el valor 100 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 509_200713: linea 489, el valor 123 en la variable ALIMENTO3 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 509_200713: linea 489, el valor 15 en la variable ALIMENTO4 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 509_200713: linea 489, el valor 30 en la variable ALIMENTO4* del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 509_200713: linea 489, el valor 25 en la variable ALIMENTO5 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 509_200713: linea 489, el valor 40 en la variable ALIMENTO6 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 509_200713: linea 489, el valor 53 en la variable ALIMENTO10 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 509_200713: linea 489, el valor 22 en la variable ALIMENTO12 del alimento Jugo Manaca no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor Julio en la variable MES no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor 1000 en la variable P_TRAN no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor 1 en la variable SHFAn12 no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor 20 en la variable ALIMENTO4 del alimento Auyama no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor 1 en la variable ALIMENTO5 del alimento Auyama no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor 20 en la variable ALIMENTO6 del alimento Auyama no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor 6 en la variable ALIMENTO10 del alimento Auyama no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor 119 en la variable ALIMENTO3 del alimento Harina  pijiguao no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor 15 en la variable ALIMENTO4 del alimento Harina  pijiguao no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor 6 en la variable ALIMENTO5 del alimento Harina  pijiguao no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor 15 en la variable ALIMENTO6 del alimento Harina  pijiguao no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor 42 en la variable ALIMENTO10 del alimento Harina  pijiguao no tiene etiqueta asignada
+Entrevista 510_200713: linea 490, el valor 1 en la variable ALIMENTO12 del alimento Harina  pijiguao no tiene etiqueta asignada
+

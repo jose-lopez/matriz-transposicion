@@ -1,0 +1,271 @@
+Los valores correspondientes a la variable AN6 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable CSB_10 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable CT_4 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable CIL8 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable COP6 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable GUAM6 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable LECH6 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable PES_E6 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable PES_P6 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable PIN6 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable SEJ_G6 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable TEMT6 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable YAR14 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable YUCA8 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable TOP6 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable TOP8 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable PLA6 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable PLA8 en la entrevista 1_160812 no coinciden 
+
+Los valores correspondientes a la variable AN6 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable CT_4 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable CIL8 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable COP6 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable GUAM6 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable LECH6 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable MANO_6 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable MANO_8 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable PES_E6 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable PES_P6 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable PIN6 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable SEJ_G6 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable TEMT6 en la entrevista 2_160812 no coinciden 
+
+Los valores correspondientes a la variable AN6 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable CIL8 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable COP6 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable GUAM6 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable LECH6 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable MANO_6 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable MANO_8 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable PES_E6 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable PES_P6 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable PIN6 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable SEJ_G6 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable TEMT6 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable YUCA8 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable TOP6 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable TOP8 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable PLA6 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable PLA8 en la entrevista 3_160812 no coinciden 
+
+Los valores correspondientes a la variable AN6 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable CT_4 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable CIL8 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable COP6 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable GUAM6 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable LECH6 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable MANO_6 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable MANO_8 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable PES_E6 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable PES_P6 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable PIN6 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable SEJ_G6 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable TEMT6 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable YUCA8 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable TOP6 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable TOP8 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable PLA6 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable PLA8 en la entrevista 4_160812 no coinciden 
+
+Los valores correspondientes a la variable AN6 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable BCH9 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable CT_4 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable CIL8 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable COP6 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable GUAM6 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable LECH6 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable MANO_6 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable MANO_8 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable PES_E6 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable PES_P6 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable PIN6 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable SEJ_G6 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable TEMT6 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable YUCA8 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable TOP6 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable TOP8 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable PLA6 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable PLA8 en la entrevista 6_160812 no coinciden 
+
+Los valores correspondientes a la variable AN6 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable CT_4 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable CIL8 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable COP6 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable GUAM6 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable LECH6 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable MANO_6 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable MANO_8 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable PES_E6 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable PES_P6 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable PIN6 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable SEJ_G6 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable TEMT6 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable YUCA8 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable TOP6 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable TOP8 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable PLA6 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable PLA8 en la entrevista 8_180812 no coinciden 
+
+Los valores correspondientes a la variable AN6 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable CT_4 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable CIL8 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable COP6 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable GUAM6 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable LECH6 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable PES_E6 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable PES_P6 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable PIN6 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable SEJ_G6 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable TEMT6 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable TOP6 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable TOP8 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable PLA6 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable PLA8 en la entrevista 9_180812 no coinciden 
+
+Los valores correspondientes a la variable AN6 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable CT_4 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable CIL8 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable COP6 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable GUAM6 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable LECH6 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable MANO_6 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable MANO_8 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable PES_E6 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable PES_P6 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable PIN6 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable SEJ_G6 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable TEMT6 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable YUCA8 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable TOP6 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable TOP8 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable PLA6 en la entrevista 10_180812 no coinciden 
+
+Los valores correspondientes a la variable PLA8 en la entrevista 10_180812 no coinciden 
